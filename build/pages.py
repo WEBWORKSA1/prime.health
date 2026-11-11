@@ -261,7 +261,7 @@ def get_plan(ctx):
     </div>
     <label class="check"><input type="checkbox" name="consent" value="Agreed to privacy policy" required> I agree to the <a href="privacy-policy.html" target="_blank">privacy policy</a> and to receive my plan by email.</label>
     <label class="check"><input type="checkbox" name="partner_match" value="Yes"> Match me with a vetted coach, dietitian or testing partner. I agree Prime.Health may share my request with them (optional).</label>
-    <label class="check"><input type="checkbox" name="newsletter" value="Yes" checked> Send me The Prime Numbers weekly email.</label>
+    <label class="check"><input type="checkbox" name="newsletter" value="Yes"> Send me The Prime Numbers weekly email.</label>
     <input class="hp" name="_honey" tabindex="-1" autocomplete="off" aria-hidden="true">
     {nav_btns(last_label="Send my free plan")}</fieldset>
   <ul class="trust-row"><li>Free</li><li>No spam</li><li>Unsubscribe any time</li><li>Shared only with your permission</li></ul>
