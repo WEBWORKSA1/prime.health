@@ -108,7 +108,7 @@ small,.fine{font-size:.86rem;color:var(--ink-2)}
 /* panel */
 .panel{background:var(--panel);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow)}
 .quick{padding:22px}
-.quick h2{font-size:1.6rem;margin-bottom:4px}.quick p{color:var(--ink-2);font-size:.95rem}
+.quick h2{font-size:1.6rem;margin-bottom:4px}.quick .res-note{font-size:.95rem}
 
 /* forms */
 label{display:block;font-weight:600;font-size:.95rem;margin:0 0 6px}
@@ -142,7 +142,7 @@ body:not(.units-imperial) .u-imperial,body.units-imperial .u-metric{display:none
 
 /* reference range bar */
 .rbar{margin:18px 0 6px}
-.rbar-head{display:flex;justify-content:space-between;gap:12px;font-size:.92rem;margin-bottom:8px}
+.rbar-head{display:flex;justify-content:space-between;gap:12px;font-size:.92rem;margin-bottom:36px}
 .rbar-head b{font-weight:600}
 .rbar-track{position:relative;display:flex;height:14px;border-radius:3px;overflow:visible;background:var(--sunk)}
 .rbar-track .seg{position:relative;height:100%;border-right:2px solid var(--panel)}
@@ -407,3 +407,15 @@ body:not(.units-imperial) .u-imperial,body.units-imperial .u-metric{display:none
 
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}.ecg-trace path{stroke-dashoffset:0}}
 @media print{.topbar,.site-header,.site-footer,.side,.ad-slot,.lead-box,.slidein,.cookie,.res-actions,.calc-actions,.crumbs{display:none!important}body{background:#fff;color:#000}.tool-layout,.article-layout{display:block}.panel{box-shadow:none}}
+
+/* specificity guards */
+[hidden]{display:none!important}
+html,body{overflow-x:clip}
+.main-nav .nav-cta-m{display:none}
+@media (max-width:1060px){.hdr-actions .nav-cta{display:none}.main-nav .nav-cta-m{display:flex}.hdr-actions .menu-btn{display:inline-grid}}
+fieldset.field{border:0;padding:0;margin:0 0 16px;min-width:0}
+fieldset.field legend{font-weight:600;font-size:.95rem;margin-bottom:6px;padding:0}
+.lead-form label{margin-top:12px}.lead-form label:first-child{margin-top:0}
+.lead-form .check{margin-top:12px}
+.tool-group a b{font-weight:600}
+.score-dial .res-num{font-weight:700;line-height:.9}
