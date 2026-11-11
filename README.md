@@ -7,28 +7,35 @@ a monthly challenge with prizes, careers and advertising pages.
 
 Static site. 100% compatible with GitHub Pages (free plan, `main` branch, root folder).
 
+## One-time setup (two clicks, needs the repo owner's login)
+1. **Turn on the build robot.** Add the workflow file: open
+   `https://github.com/WEBWORKSA1/prime.health/new/main?filename=.github%2Fworkflows%2Fbuild.yml`,
+   paste the contents of `automation/build.yml`, and press **Commit changes**. It runs immediately,
+   builds all 61 pages into `main` in about 2 minutes, then refreshes news and videos every day.
+2. **Publish.** Settings → Pages → Source: **Deploy from a branch** → Branch `main`, folder
+   `/ (root)` → Save. Live at https://webworksa1.github.io/prime.health/ about a minute later.
+
+(Integrations without the `workflow` scope cannot create files in `.github/workflows`, and enabling
+Pages needs repo-admin rights, which is why these two steps are done from the owner's account.)
+
 ## How it is built
 ```
-build/               Python generator (no dependencies): layout, pages, tools, legal
+build/               Python generator (no dependencies): layout, pages, tools, guides, legal
 content/guides/      Guide articles (HTML fragments with a META header)
 assets/css, js       Styles, site script (forms, ads, search, theme), calculators, Prime Score
 data/                feeds.json (sources to pull), news.json + videos.json (auto-refreshed)
 scripts/             update_feeds.py (RSS + YouTube feeds, no API keys)
-.github/workflows/   build.yml: builds the HTML, refreshes news/videos daily, commits to main
+automation/build.yml Source of the GitHub Actions workflow (copy to .github/workflows/)
 ```
-Every push to `main` that touches sources, and a daily schedule, runs the workflow, which regenerates
-all HTML pages, `sitemap.xml` and `search-index.json` and commits them back to `main`.
+The workflow regenerates all HTML pages, `sitemap.xml` and `search-index.json` on every source push
+and on a daily schedule, and commits them back to `main`.
 
 Run locally: `python3 scripts/update_feeds.py` (optional) then `python3 build/build.py`, then
 `python3 -m http.server` and open http://localhost:8000.
 
-## Publish on GitHub Pages
-Repo → Settings → Pages → Source: **Deploy from a branch** → Branch `main`, folder `/ (root)` → Save.
-Live at https://webworksa1.github.io/prime.health/ within about a minute.
-
 ## Custom domain (prime.health)
 1. DNS at the registrar: A records `185.199.108.153`, `185.199.109.153`, `185.199.110.153`,
-   `185.199.111.153`; AAAA optional; CNAME `www` → `webworksa1.github.io`.
+   `185.199.111.153`; CNAME `www` → `webworksa1.github.io`.
 2. Repo → Settings → Pages → Custom domain: `prime.health` → Save → tick **Enforce HTTPS**.
 3. Google Search Console: add `prime.health`, submit `https://prime.health/sitemap.xml`.
 4. Apply to AdSense with `prime.health` (AdSense does not accept github.io sub-paths).

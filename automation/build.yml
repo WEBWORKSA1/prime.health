@@ -1,0 +1,66 @@
+name: Build site and refresh content
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "build/**"
+      - "content/**"
+      - "assets/**"
+      - "data/feeds.json"
+      - "scripts/**"
+      - ".github/workflows/**"
+  schedule:
+    - cron: "17 5 * * *"   # daily, 05:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: build-site
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh news and videos (titles and links only)
+        run: python3 scripts/update_feeds.py
+        continue-on-error: true
+
+      - name: Build all pages, sitemap and search index
+        run: python3 build/build.py
+
+      - name: Render social image and app icons (first run only)
+        continue-on-error: true
+        run: |
+          CH=$(command -v google-chrome || command -v chromium || command -v chromium-browser)
+          shot() { "$CH" --headless=new --no-sandbox --disable-gpu --hide-scrollbars --virtual-time-budget=4000 --window-size=$1 --screenshot="$2" "file://$PWD/$3"; }
+          [ -f assets/img/og.png ] || shot 1200,630 assets/img/og.png assets/img/og.html
+          [ -f assets/img/icon-512.png ] || shot 512,512 assets/img/icon-512.png assets/img/icon.html
+          [ -f assets/img/icon-180.png ] || shot 180,180 assets/img/icon-180.png assets/img/icon.html
+          ls -la assets/img
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "Nothing changed"; exit 0; fi
+          git commit -m "Auto-build: pages, sitemap, news and videos ($(date -u +%Y-%m-%d))"
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+      - name: Ask GitHub Pages to redeploy
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || echo "Pages not enabled yet or build already queued"
