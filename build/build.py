@@ -40,6 +40,9 @@ def main():
     sitemap, search = [], []
     for pg in all_pages:
         html = L.render(pg)
+        suffix = " | " + L.NAME + "</title>"
+        if suffix in html and len(L.esc(pg["title"])) > 52:  # keep search titles short
+            html = html.replace(suffix, "</title>", 1)
         if pg.get("head_first"):
             html = html.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n' + pg["head_first"], 1)
         out = os.path.join(ROOT, pg["path"])
