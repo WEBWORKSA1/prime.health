@@ -1,1 +1,329 @@
-{"updated": "", "items": [], "channels": []}
+{
+ "updated": "2026-11-11T13:49:37.271052+00:00",
+ "channels": [
+  {
+   "handle": "WHO",
+   "name": "World Health Organization",
+   "topic": "Prevention",
+   "id": "UC07-dOwgza1IguKA86jqxNA"
+  },
+  {
+   "handle": "MayoClinic",
+   "name": "Mayo Clinic",
+   "topic": "Prevention",
+   "id": "UC8fQzKHIhSoZeSq3bwQx4mw"
+  },
+  {
+   "handle": "ClevelandClinic",
+   "name": "Cleveland Clinic",
+   "topic": "Heart",
+   "id": "UCxyiSz4m161Z6frOsFxJpgw"
+  },
+  {
+   "handle": "DoctorMike",
+   "name": "Doctor Mike",
+   "topic": "Prevention",
+   "id": "UC0QHWhjbe5fGJEPz3sVb6nw"
+  },
+  {
+   "handle": "PeterAttiaMD",
+   "name": "Peter Attia MD",
+   "topic": "Longevity",
+   "id": "UC8kGsMa0LygSX9nkBcBH1Sg"
+  },
+  {
+   "handle": "hubermanlab",
+   "name": "Huberman Lab",
+   "topic": "Sleep & mind",
+   "id": "UC2D2CMWXMOVWx7giW1n3LIg"
+  },
+  {
+   "handle": "FoundMyFitness",
+   "name": "FoundMyFitness",
+   "topic": "Longevity",
+   "id": "UCWF8SqJVNlx-ctXbLswcTcA"
+  },
+  {
+   "handle": "JeffNippard",
+   "name": "Jeff Nippard",
+   "topic": "Move",
+   "id": "UC68TLK0mAEzUyHx5x5k-S1Q"
+  },
+  {
+   "handle": "FitnessBlender",
+   "name": "Fitness Blender",
+   "topic": "Move",
+   "id": "UCBINFWq52ShSgUFEoynfSwg"
+  },
+  {
+   "handle": "yogawithadriene",
+   "name": "Yoga With Adriene",
+   "topic": "Move",
+   "id": "UCFKE7WVJfvaHW5q283SxchA"
+  },
+  {
+   "handle": "headspace",
+   "name": "Headspace",
+   "topic": "Sleep & mind",
+   "id": "UC3JhfsgFPLSLNEROQCdj-GQ"
+  }
+ ],
+ "items": [
+  {
+   "id": "f6OigDdQTx8",
+   "title": "Twenty Years of Innovation in Robotic Cardiac Surgery",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-11T11:17:39+00:00"
+  },
+  {
+   "id": "iqXkC1mADEQ",
+   "title": "Strengthening Africa's health security: Dr Tedros' message to African Medicines Agency Week 2026",
+   "channel": "World Health Organization",
+   "handle": "WHO",
+   "topic": "Prevention",
+   "date": "2026-11-11T10:25:30+00:00"
+  },
+  {
+   "id": "BTWAduHnaQE",
+   "title": "The Physician CEO: Leadership Lessons with Dr. David Herman",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-10T21:31:28+00:00"
+  },
+  {
+   "id": "BFYMGyZONfk",
+   "title": "The human touch: What makes a great hospital patient experience E01",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-10T19:52:16+00:00"
+  },
+  {
+   "id": "kcVSMqOuIQQ",
+   "title": "LIVE from Paris Peace Forum: Dr Tedros’ remarks at the #ChildSummit High-Level Plenary",
+   "channel": "World Health Organization",
+   "handle": "WHO",
+   "topic": "Prevention",
+   "date": "2026-11-10T16:25:07+00:00"
+  },
+  {
+   "id": "DuufxmC2XHs",
+   "title": "Precision radiation helps retired Navy pilot move forward after prostate cancer",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-10T15:24:08+00:00"
+  },
+  {
+   "id": "7JeZk_J7_h4",
+   "title": "The Hype vs. Data on Saturated Fat, Red Meat, & Seed Oils",
+   "channel": "FoundMyFitness",
+   "handle": "FoundMyFitness",
+   "topic": "Longevity",
+   "date": "2026-11-10T15:00:10+00:00"
+  },
+  {
+   "id": "2dn-mcgyC8s",
+   "title": "7 Minute Morning Meditation | Stillness to Start Your Day.",
+   "channel": "Yoga With Adriene",
+   "handle": "yogawithadriene",
+   "topic": "Move",
+   "date": "2026-11-10T15:00:05+00:00"
+  },
+  {
+   "id": "xgEUM-Q4MUA",
+   "title": "Audiologist Lorraine Lombardo, AuD",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-09T19:28:04+00:00"
+  },
+  {
+   "id": "ypyRwSzX50I",
+   "title": "Obstetrician-Gynecologist (Ob/Gyn) Natalie Adsuar, MD",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-09T19:21:27+00:00"
+  },
+  {
+   "id": "zQExY7ueCNs",
+   "title": "LIVE from #COP31: Health Day Ministerial Roundtable with Dr Tedros",
+   "channel": "World Health Organization",
+   "handle": "WHO",
+   "topic": "Prevention",
+   "date": "2026-11-09T13:00:23+00:00"
+  },
+  {
+   "id": "wbJ_Q1xsDHg",
+   "title": "Overcome Addictions and Obsessions of All Kinds | Dr. Anna Lembke",
+   "channel": "Huberman Lab",
+   "handle": "hubermanlab",
+   "topic": "Sleep & mind",
+   "date": "2026-11-09T13:00:23+00:00"
+  },
+  {
+   "id": "HhTirnNCxxE",
+   "title": "Understanding lab testing: what blood work can & cannot tell you (AMA 91 sneak peek)",
+   "channel": "Peter Attia MD",
+   "handle": "PeterAttiaMD",
+   "topic": "Longevity",
+   "date": "2026-11-09T05:00:12+00:00"
+  },
+  {
+   "id": "HrHFrCWLrWA",
+   "title": "I Tried To Pass Firefighter Academy (It Broke Me)",
+   "channel": "Doctor Mike",
+   "handle": "DoctorMike",
+   "topic": "Prevention",
+   "date": "2026-11-08T15:00:03+00:00"
+  },
+  {
+   "id": "drDjOsO9-Cw",
+   "title": "How to effectively train your abdominal muscles | Jeff Cavaliere, M.S.P.T., C.S.C.S.",
+   "channel": "Peter Attia MD",
+   "handle": "PeterAttiaMD",
+   "topic": "Longevity",
+   "date": "2026-11-07T17:30:16+00:00"
+  },
+  {
+   "id": "yUdg7drjrZY",
+   "title": "Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
+   "channel": "Huberman Lab",
+   "handle": "hubermanlab",
+   "topic": "Sleep & mind",
+   "date": "2026-11-05T13:00:08+00:00"
+  },
+  {
+   "id": "e1RoRmKWsEE",
+   "title": "Understanding reps in reserve | Jeff Cavaliere, M.S.P.T., C.S.C.S.",
+   "channel": "Peter Attia MD",
+   "handle": "PeterAttiaMD",
+   "topic": "Longevity",
+   "date": "2026-11-04T19:32:48+00:00"
+  },
+  {
+   "id": "yaDakSbOBbU",
+   "title": "The Pharmacy Nearly Killed My Patient",
+   "channel": "Doctor Mike",
+   "handle": "DoctorMike",
+   "topic": "Prevention",
+   "date": "2026-11-04T15:00:01+00:00"
+  },
+  {
+   "id": "A8lEleHtqQc",
+   "title": "2 Hours of Cozy, Ambient Sounds for Your Pet’s Afternoon Nap",
+   "channel": "Headspace",
+   "handle": "headspace",
+   "topic": "Sleep & mind",
+   "date": "2026-11-03T13:00:22+00:00"
+  },
+  {
+   "id": "y-fRFiTrrg4",
+   "title": "Access the Sublime & Live Your Best Life | Robert Greene",
+   "channel": "Huberman Lab",
+   "handle": "hubermanlab",
+   "topic": "Sleep & mind",
+   "date": "2026-11-02T13:00:28+00:00"
+  },
+  {
+   "id": "YpMRrTegBLE",
+   "title": "Laws Created After Medical Mistakes",
+   "channel": "Doctor Mike",
+   "handle": "DoctorMike",
+   "topic": "Prevention",
+   "date": "2026-11-01T15:00:01+00:00"
+  },
+  {
+   "id": "ynbIe1LGx7g",
+   "title": "4-Minute Pep Talk to Boost Your Confidence",
+   "channel": "Headspace",
+   "handle": "headspace",
+   "topic": "Sleep & mind",
+   "date": "2026-10-29T20:49:47+00:00"
+  },
+  {
+   "id": "E9AwOaDbclg",
+   "title": "Halloween Yoga | A Red Riding Hood Adventure",
+   "channel": "Yoga With Adriene",
+   "handle": "yogawithadriene",
+   "topic": "Move",
+   "date": "2026-10-27T14:00:07+00:00"
+  },
+  {
+   "id": "OlV94YvOUlA",
+   "title": "12-Minute Meditation to Improve Focus and Productivity | Headspace Courses",
+   "channel": "Headspace",
+   "handle": "headspace",
+   "topic": "Sleep & mind",
+   "date": "2026-10-23T19:35:56+00:00"
+  },
+  {
+   "id": "aA9EI3NKUS4",
+   "title": "Find Your Flexibility | Full Body Yoga",
+   "channel": "Yoga With Adriene",
+   "handle": "yogawithadriene",
+   "topic": "Move",
+   "date": "2026-10-13T14:00:06+00:00"
+  },
+  {
+   "id": "IKdShZ2CDe4",
+   "title": "Why You Should Eat Blueberries Every Day As You Age",
+   "channel": "FoundMyFitness",
+   "handle": "FoundMyFitness",
+   "topic": "Longevity",
+   "date": "2026-10-06T15:00:11+00:00"
+  },
+  {
+   "id": "H6SiAe-VObA",
+   "title": "Peptides Are Insane",
+   "channel": "Jeff Nippard",
+   "handle": "JeffNippard",
+   "topic": "Move",
+   "date": "2026-09-28T15:30:01+00:00"
+  },
+  {
+   "id": "3NiQF9_Vxi8",
+   "title": "Meditation Does Far More Than Reduce Stress | Dr. Richard Davidson",
+   "channel": "FoundMyFitness",
+   "handle": "FoundMyFitness",
+   "topic": "Longevity",
+   "date": "2026-08-26T14:00:07+00:00"
+  },
+  {
+   "id": "FBJ0UW51J0Y",
+   "title": "10-Minute Deep Core Ab Reset",
+   "channel": "Fitness Blender",
+   "handle": "FitnessBlender",
+   "topic": "Move",
+   "date": "2026-08-24T16:00:15+00:00"
+  },
+  {
+   "id": "bqjTMSW1B5o",
+   "title": "20-Minute Morning Strength and Stretch",
+   "channel": "Fitness Blender",
+   "handle": "FitnessBlender",
+   "topic": "Move",
+   "date": "2026-08-17T16:00:24+00:00"
+  },
+  {
+   "id": "Ka3UuZCoV-8",
+   "title": "30-Minute Booty Burn For Strength",
+   "channel": "Fitness Blender",
+   "handle": "FitnessBlender",
+   "topic": "Move",
+   "date": "2026-08-10T16:00:07+00:00"
+  },
+  {
+   "id": "TBrlPpviaqY",
+   "title": "How Ripped Can I Get My Brother In 100 Days?",
+   "channel": "Jeff Nippard",
+   "handle": "JeffNippard",
+   "topic": "Move",
+   "date": "2026-07-27T14:00:04+00:00"
+  }
+ ]
+}

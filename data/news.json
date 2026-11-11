@@ -1,1 +1,259 @@
-{"updated": "", "items": []}
+{
+ "updated": "2026-11-11T13:49:37.271052+00:00",
+ "sources_ok": [
+  "NIH",
+  "WHO",
+  "FDA",
+  "CDC",
+  "ScienceDaily",
+  "MedicalXpress"
+ ],
+ "items": [
+  {
+   "title": "Common skin cancer rising faster in women",
+   "link": "https://medicalxpress.com/news/2026-11-common-skin-cancer-faster-women.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-11T13:40:02+00:00"
+  },
+  {
+   "title": "Canine companionship, with a catch: Health effects of big-city dog ownership differ by location",
+   "link": "https://medicalxpress.com/news/2026-11-canine-companionship-health-effects-big.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-11T13:20:01+00:00"
+  },
+  {
+   "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-11T13:10:51+00:00"
+  },
+  {
+   "title": "Stress more strongly linked to poorer quality of life among adults with multiple chronic conditions",
+   "link": "https://medicalxpress.com/news/2026-11-stress-strongly-linked-poorer-quality.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-11T13:10:02+00:00"
+  },
+  {
+   "title": "Obesity linked to up to 27% lower risk of death in dementia",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261109205401.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-11T12:59:57+00:00"
+  },
+  {
+   "title": "America's long-term care system needs help: Can Europe provide a model for how to improve it?",
+   "link": "https://medicalxpress.com/news/2026-11-america-term-europe.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-11T12:40:01+00:00"
+  },
+  {
+   "title": "Effective obesity treatments reach few eligible teens, study finds",
+   "link": "https://medicalxpress.com/news/2026-11-effective-obesity-treatments-eligible-teens.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-11T12:20:11+00:00"
+  },
+  {
+   "title": "Children who travel further for common surgery have more complications and longer hospital stays",
+   "link": "https://medicalxpress.com/news/2026-11-children-common-surgery-complications-longer.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-11T12:20:06+00:00"
+  },
+  {
+   "title": "Scientists find deadly virus DNA hidden in 1,000-year-old manuscripts",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261106174545.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-11T12:10:47+00:00"
+  },
+  {
+   "title": "Bioengineers create portable tool to spot preterm birth risk",
+   "link": "https://medicalxpress.com/news/2026-11-bioengineers-portable-tool-preterm-birth.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-11T12:00:09+00:00"
+  },
+  {
+   "title": "Study identifies potential strategy to reduce breast reconstruction complications after proton therapy",
+   "link": "https://medicalxpress.com/news/2026-11-potential-strategy-breast-reconstruction-complications.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-11T12:00:01+00:00"
+  },
+  {
+   "title": "Five-year survival from pediatric cancer rises to nearly 90% overall, but disparities by race and cancer type remain",
+   "link": "https://medicalxpress.com/news/2026-11-year-survival-pediatric-cancer-disparities.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-11T11:15:10+00:00"
+  },
+  {
+   "title": "Experiences reshape brain cell connections, synapse mapping reveals",
+   "link": "https://medicalxpress.com/news/2026-11-reshape-brain-cell-synapse-reveals.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-11T10:00:06+00:00"
+  },
+  {
+   "title": "Cancer-fighting chewing gum slashes HPV levels by up to 93%",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261108203832.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-11T04:27:12+00:00"
+  },
+  {
+   "title": "Even occasional marijuana use linked to 40% higher odds of stroke",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042539.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-11T03:47:25+00:00"
+  },
+  {
+   "title": "Eating less protein could slow aging, review of 350 studies finds",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261108203714.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-10T12:48:16+00:00"
+  },
+  {
+   "title": "Why heart attacks can still happen even when bad cholesterol is low",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-10T01:54:15+00:00"
+  },
+  {
+   "title": "Alzheimer’s may have early warning signs outside the brain",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-10T01:47:34+00:00"
+  },
+  {
+   "title": "FDA Approves First Factor Xla Inhibitor to Help Prevent Stroke in Certain Adults at High Risk",
+   "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk",
+   "source": "FDA",
+   "date": "2026-11-09T22:15:46+00:00"
+  },
+  {
+   "title": "Common supplement could help fight psoriasis, scientists discover",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-09T11:44:20+00:00"
+  },
+  {
+   "title": "Common osteoporosis drugs linked to 24% lower dementia risk in major study",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261108233037.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-09T07:36:14+00:00"
+  },
+  {
+   "title": "FDA Grants Accelerated Approval to a New Treatment for Head and Neck Squamous Cell Carcinoma",
+   "link": "http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma",
+   "source": "FDA",
+   "date": "2026-11-05T22:30:38+00:00"
+  },
+  {
+   "title": "FDA Provides Clarity to Support Cell and Gene Therapy Development and Quality",
+   "link": "http://www.fda.gov/news-events/press-announcements/fda-provides-clarity-support-cell-and-gene-therapy-development-and-quality",
+   "source": "FDA",
+   "date": "2026-11-02T13:56:06+00:00"
+  },
+  {
+   "title": "FDA Approves First Plasmid DNA-based Immunotherapy for Adults with Recurrent Respiratory Papillomatosis",
+   "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis",
+   "source": "FDA",
+   "date": "2026-10-30T20:32:08+00:00"
+  },
+  {
+   "title": "FDA Launches New Program to Advance Neuroscience Medical Product Development",
+   "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-new-program-advance-neuroscience-medical-product-development",
+   "source": "FDA",
+   "date": "2026-10-22T16:58:19+00:00"
+  },
+  {
+   "title": "FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment",
+   "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment",
+   "source": "FDA",
+   "date": "2026-10-20T19:40:38+00:00"
+  },
+  {
+   "title": "FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women",
+   "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-once-weekly-generic-hormone-therapy-patch-women",
+   "source": "FDA",
+   "date": "2026-10-20T15:57:36+00:00"
+  },
+  {
+   "title": "FDA Issues Final Guidance on Prescription Drug Apps and Software",
+   "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-prescription-drug-apps-and-software",
+   "source": "FDA",
+   "date": "2026-10-20T13:03:14+00:00"
+  },
+  {
+   "title": "FDA Approves Immunotherapy That May Allow Certain Patients with Rectal Cancer to Avoid Chemotherapy, Radiation and Surgery",
+   "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and",
+   "source": "FDA",
+   "date": "2026-10-19T16:19:38+00:00"
+  },
+  {
+   "title": "FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development",
+   "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease",
+   "source": "FDA",
+   "date": "2026-10-14T15:50:52+00:00"
+  },
+  {
+   "title": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
+   "link": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response",
+   "source": "WHO",
+   "date": "2026-10-10T07:49:45+00:00"
+  },
+  {
+   "title": "Two ‘forever chemicals’ associated with higher risk of aggressive breast cancer in NIH analysis",
+   "link": "https://www.nih.gov/news-events/news-releases/two-forever-chemicals-associated-higher-risk-aggressive-breast-cancer-nih-analysis",
+   "source": "NIH",
+   "date": ""
+  },
+  {
+   "title": "Integrated health service delivery through medical mobile units helped to reduce deaths among individuals at risk for HIV who also inject drugs",
+   "link": "https://www.nih.gov/news-events/news-releases/integrated-health-service-delivery-through-medical-mobile-units-helped-reduce-deaths-among-individuals-risk-hiv-who-also-inject-drugs",
+   "source": "NIH",
+   "date": ""
+  },
+  {
+   "title": "An extra year of secondary school lowered dementia diagnoses later in life",
+   "link": "https://www.nih.gov/news-events/news-releases/extra-year-secondary-school-lowered-dementia-diagnoses-later-life",
+   "source": "NIH",
+   "date": ""
+  },
+  {
+   "title": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial",
+   "link": "https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial",
+   "source": "NIH",
+   "date": ""
+  },
+  {
+   "title": "A blood-pressure drug may activate health-promoting brown fat",
+   "link": "https://www.nih.gov/news-events/news-releases/blood-pressure-drug-may-activate-health-promoting-brown-fat",
+   "source": "NIH",
+   "date": ""
+  },
+  {
+   "title": "Patients engage with epilepsy monitor in real time, improving seizure detection",
+   "link": "https://www.nih.gov/news-events/news-releases/patients-engage-epilepsy-monitor-real-time-improving-seizure-detection",
+   "source": "NIH",
+   "date": ""
+  },
+  {
+   "title": "Deep learning model using ECGs during sleep studies can predict cardiovascular outcomes",
+   "link": "https://www.nih.gov/news-events/news-releases/deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes",
+   "source": "NIH",
+   "date": ""
+  },
+  {
+   "title": "NIH announces record number of grants to support early career investigators, launches new recruitment initiative for intramural research",
+   "link": "https://www.nih.gov/news-events/news-releases/nih-announces-record-number-grants-support-early-career-investigators-launches-new-recruitment-initiative-intramural-research",
+   "source": "NIH",
+   "date": ""
+  },
+  {
+   "title": "Human lung organoids with a built-in immune system could transform respiratory disease research",
+   "link": "https://www.nih.gov/news-events/news-releases/human-lung-organoids-built-immune-system-could-transform-respiratory-disease-research",
+   "source": "NIH",
+   "date": ""
+  },
+  {
+   "title": "NIH joins effort to build SI-ready data for predictive models of human biology",
+   "link": "https://www.nih.gov/news-events/news-releases/nih-joins-effort-build-si-ready-data-predictive-models-human-biology",
+   "source": "NIH",
+   "date": ""
+  }
+ ]
+}
