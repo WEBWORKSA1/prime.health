@@ -1,0 +1,25 @@
+{
+  "news": [
+    {"name": "NIH", "url": "https://www.nih.gov/news-releases/feed.xml"},
+    {"name": "WHO", "url": "https://www.who.int/rss-feeds/news-english.xml"},
+    {"name": "FDA", "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml"},
+    {"name": "CDC", "url": "https://tools.cdc.gov/api/v2/resources/media/132608.rss"},
+    {"name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/health_medicine.xml"},
+    {"name": "EurekAlert!", "url": "https://www.eurekalert.org/rss/health_medicine.xml"},
+    {"name": "MedicalXpress", "url": "https://medicalxpress.com/rss-feed/"},
+    {"name": "Harvard Health", "url": "https://www.health.harvard.edu/blog/feed"}
+  ],
+  "youtube": [
+    {"handle": "WHO", "name": "World Health Organization", "topic": "Prevention", "id": "UC07-dOwgza1IguKA86jqxNA"},
+    {"handle": "MayoClinic", "name": "Mayo Clinic", "topic": "Prevention", "id": ""},
+    {"handle": "ClevelandClinic", "name": "Cleveland Clinic", "topic": "Heart", "id": ""},
+    {"handle": "DoctorMike", "name": "Doctor Mike", "topic": "Prevention", "id": "UC0QHWhjbe5fGJEPz3sVb6nw"},
+    {"handle": "PeterAttiaMD", "name": "Peter Attia MD", "topic": "Longevity", "id": "UC8kGsMa0LygSX9nkBcBH1Sg"},
+    {"handle": "hubermanlab", "name": "Huberman Lab", "topic": "Sleep & mind", "id": "UC2D2CMWXMOVWx7giW1n3LIg"},
+    {"handle": "FoundMyFitness", "name": "FoundMyFitness", "topic": "Longevity", "id": "UCWF8SqJVNlx-ctXbLswcTcA"},
+    {"handle": "JeffNippard", "name": "Jeff Nippard", "topic": "Move", "id": "UC68TLK0mAEzUyHx5x5k-S1Q"},
+    {"handle": "FitnessBlender", "name": "Fitness Blender", "topic": "Move", "id": "UCBINFWq52ShSgUFEoynfSwg"},
+    {"handle": "yogawithadriene", "name": "Yoga With Adriene", "topic": "Move", "id": "UCFKE7WVJfvaHW5q283SxchA"},
+    {"handle": "headspace", "name": "Headspace", "topic": "Sleep & mind", "id": ""}
+  ]
+}

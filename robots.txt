@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /build/
+Disallow: /scripts/
+Disallow: /content/
+Disallow: /data/feeds.json
+
+Sitemap: https://prime.health/sitemap.xml
