@@ -39,7 +39,9 @@ def main():
 
     sitemap, search = [], []
     for pg in all_pages:
-        html = L.render(pg) if not pg.get("raw") else pg["raw"]
+        html = L.render(pg)
+        if pg.get("head_first"):
+            html = html.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n' + pg["head_first"], 1)
         out = os.path.join(ROOT, pg["path"])
         os.makedirs(os.path.dirname(out), exist_ok=True)
         with open(out, "w", encoding="utf-8") as f:
