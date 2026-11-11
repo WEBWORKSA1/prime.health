@@ -80,6 +80,8 @@ const CONFIG = {
     const scored = index.map(it => {
       const t = it.t.toLowerCase(), d = (it.d || '').toLowerCase();
       let s = 0; words.forEach(w => { if (t.includes(w)) s += 3; if (d.includes(w)) s += 1; });
+      if (q && t.startsWith(q)) s += 6; else if (q && t.includes(q)) s += 3;
+      if (s && it.k === 'Tool') s += 1;
       if (!words.length) s = it.k === 'Tool' ? 1 : 0;
       return [s, it];
     }).filter(x => x[0] > 0).sort((a, b) => b[0] - a[0]).slice(0, 12);
