@@ -9,8 +9,9 @@
   let units = store.get('units', /^en-US$/i.test(navigator.language || '') ? 'imperial' : 'metric');
   const imp = () => units === 'imperial';
 
-  const fx = (v, d) => Number(v).toLocaleString(undefined, { minimumFractionDigits: d, maximumFractionDigits: d });
-  const r0 = v => Math.round(v).toLocaleString();
+  const nudge = v => Number(v) + (v >= 0 ? 1e-9 : -1e-9);
+  const fx = (v, d) => nudge(v).toLocaleString(undefined, { minimumFractionDigits: d, maximumFractionDigits: d });
+  const r0 = v => Math.round(nudge(v)).toLocaleString();
   const r1 = v => fx(v, 1);
   const r2 = v => fx(v, 2);
   const kg = v => imp() ? `${r1(v / LB)} lb` : `${r1(v)} kg`;
@@ -635,6 +636,7 @@
       $$('[data-show-if]', form).forEach(el => { const [k, x] = el.dataset.showIf.split('='); el.hidden = String(vals[k]) !== x; });
     };
     form.addEventListener('change', cond); cond();
+    form.addEventListener('reset', () => { if (out) { out.hidden = true; out.innerHTML = ''; } setTimeout(cond, 0); });
     form.addEventListener('submit', e => {
       e.preventDefault();
       const fn = T[tool]; if (!fn || !out) return;
