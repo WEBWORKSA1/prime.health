@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T13:49:37.271052+00:00",
+ "updated": "2026-11-12T13:43:59.985012+00:00",
  "channels": [
   {
    "handle": "WHO",
@@ -70,12 +70,52 @@
  ],
  "items": [
   {
-   "id": "f6OigDdQTx8",
-   "title": "Twenty Years of Innovation in Robotic Cardiac Surgery",
+   "id": "1rn_Clc-MM0",
+   "title": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
+   "channel": "Huberman Lab",
+   "handle": "hubermanlab",
+   "topic": "Sleep & mind",
+   "date": "2026-11-12T13:00:29+00:00"
+  },
+  {
+   "id": "7bw8EjeeSzA",
+   "title": "A Relaxing Bedtime Story at an All-Night Hair Salon | 45-minute Sleepcast",
+   "channel": "Headspace",
+   "handle": "headspace",
+   "topic": "Sleep & mind",
+   "date": "2026-11-11T19:42:17+00:00"
+  },
+  {
+   "id": "VbmaYsU8hjA",
+   "title": "Doctor Reacts To MTV Medical Emergencies",
+   "channel": "Doctor Mike",
+   "handle": "DoctorMike",
+   "topic": "Prevention",
+   "date": "2026-11-11T16:00:40+00:00"
+  },
+  {
+   "id": "Co7EDx5C_Sw",
+   "title": "SEVA VentRounds Express: Setting Induced Fail",
    "channel": "Cleveland Clinic",
    "handle": "ClevelandClinic",
    "topic": "Heart",
-   "date": "2026-11-11T11:17:39+00:00"
+   "date": "2026-11-11T15:27:14+00:00"
+  },
+  {
+   "id": "Zf0kkO50HJU",
+   "title": "Pulmonary Critical Care Provider Albert Kim, MD",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-11T15:20:12+00:00"
+  },
+  {
+   "id": "qOltvQW-XXI",
+   "title": "Pulmonary Critical Care Provider Mohammad Salman Khan, DO",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-11T15:14:35+00:00"
   },
   {
    "id": "iqXkC1mADEQ",
@@ -119,7 +159,7 @@
   },
   {
    "id": "7JeZk_J7_h4",
-   "title": "The Hype vs. Data on Saturated Fat, Red Meat, & Seed Oils",
+   "title": "The Foods You Were Told to Avoid (But Should Be Eating)",
    "channel": "FoundMyFitness",
    "handle": "FoundMyFitness",
    "topic": "Longevity",
@@ -132,22 +172,6 @@
    "handle": "yogawithadriene",
    "topic": "Move",
    "date": "2026-11-10T15:00:05+00:00"
-  },
-  {
-   "id": "xgEUM-Q4MUA",
-   "title": "Audiologist Lorraine Lombardo, AuD",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-09T19:28:04+00:00"
-  },
-  {
-   "id": "ypyRwSzX50I",
-   "title": "Obstetrician-Gynecologist (Ob/Gyn) Natalie Adsuar, MD",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-09T19:21:27+00:00"
   },
   {
    "id": "zQExY7ueCNs",
@@ -222,22 +246,6 @@
    "date": "2026-11-03T13:00:22+00:00"
   },
   {
-   "id": "y-fRFiTrrg4",
-   "title": "Access the Sublime & Live Your Best Life | Robert Greene",
-   "channel": "Huberman Lab",
-   "handle": "hubermanlab",
-   "topic": "Sleep & mind",
-   "date": "2026-11-02T13:00:28+00:00"
-  },
-  {
-   "id": "YpMRrTegBLE",
-   "title": "Laws Created After Medical Mistakes",
-   "channel": "Doctor Mike",
-   "handle": "DoctorMike",
-   "topic": "Prevention",
-   "date": "2026-11-01T15:00:01+00:00"
-  },
-  {
    "id": "ynbIe1LGx7g",
    "title": "4-Minute Pep Talk to Boost Your Confidence",
    "channel": "Headspace",
@@ -252,14 +260,6 @@
    "handle": "yogawithadriene",
    "topic": "Move",
    "date": "2026-10-27T14:00:07+00:00"
-  },
-  {
-   "id": "OlV94YvOUlA",
-   "title": "12-Minute Meditation to Improve Focus and Productivity | Headspace Courses",
-   "channel": "Headspace",
-   "handle": "headspace",
-   "topic": "Sleep & mind",
-   "date": "2026-10-23T19:35:56+00:00"
   },
   {
    "id": "aA9EI3NKUS4",
