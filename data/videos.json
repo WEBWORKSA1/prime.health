@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T13:43:59.985012+00:00",
+ "updated": "2026-11-13T13:04:01.358883+00:00",
  "channels": [
   {
    "handle": "WHO",
@@ -69,6 +69,14 @@
   }
  ],
  "items": [
+  {
+   "id": "4ayFu0RqCU4",
+   "title": "Mayo Clinic Minute: How menopause may affect epilepsy",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-12T18:19:44+00:00"
+  },
   {
    "id": "1rn_Clc-MM0",
    "title": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
@@ -148,14 +156,6 @@
    "handle": "WHO",
    "topic": "Prevention",
    "date": "2026-11-10T16:25:07+00:00"
-  },
-  {
-   "id": "DuufxmC2XHs",
-   "title": "Precision radiation helps retired Navy pilot move forward after prostate cancer",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-10T15:24:08+00:00"
   },
   {
    "id": "7JeZk_J7_h4",

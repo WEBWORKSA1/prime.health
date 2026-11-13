@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T13:43:59.985012+00:00",
+ "updated": "2026-11-13T13:04:01.358883+00:00",
  "sources_ok": [
   "NIH",
   "WHO",
@@ -10,70 +10,112 @@
  ],
  "items": [
   {
-   "title": "Reddit mental health advice comes with a warning",
-   "link": "https://medicalxpress.com/news/2026-11-reddit-mental-health-advice.html",
+   "title": "How the brain rapidly learns to interpret ambiguous images",
+   "link": "https://medicalxpress.com/news/2026-11-brain-rapidly-ambiguous-images.html",
    "source": "MedicalXpress",
-   "date": "2026-11-12T13:40:20+00:00"
+   "date": "2026-11-13T13:00:09+00:00"
   },
   {
-   "title": "Papua New Guinean tree offers new lead in search for motor neuron disease treatments",
-   "link": "https://medicalxpress.com/news/2026-11-papua-guinean-tree-motor-neuron.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-12T13:40:01+00:00"
+   "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-13T12:55:11+00:00"
   },
   {
-   "title": "VR reduces pain and anxiety for children in the emergency department",
-   "link": "https://medicalxpress.com/news/2026-11-vr-pain-anxiety-children-emergency.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-12T13:20:01+00:00"
+   "title": "Study of 750,000 pregnancies reveals a surprising twist about Ozempic and Wegovy",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111005911.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-13T12:48:10+00:00"
   },
   {
-   "title": "New parents with intellectual disability 9 times more likely to be hospitalized for mental health care",
-   "link": "https://medicalxpress.com/news/2026-11-parents-intellectual-disability-hospitalized-mental.html",
+   "title": "Despite programs for firefighter health, most rural firefighters are left behind",
+   "link": "https://medicalxpress.com/news/2026-11-firefighter-health-rural-firefighters-left.html",
    "source": "MedicalXpress",
-   "date": "2026-11-12T13:10:02+00:00"
+   "date": "2026-11-13T12:40:01+00:00"
   },
   {
-   "title": "Feeling safe, being heard and staying connected are important to children receiving end-of-life care",
-   "link": "https://medicalxpress.com/news/2026-11-safe-heard-staying-important-children.html",
+   "title": "Mobile app and telemonitoring improve quality of life and symptoms in patients with heart failure",
+   "link": "https://medicalxpress.com/news/2026-11-mobile-app-telemonitoring-quality-life.html",
    "source": "MedicalXpress",
-   "date": "2026-11-12T12:50:02+00:00"
+   "date": "2026-11-13T12:20:05+00:00"
   },
   {
-   "title": "Research reveals Alzheimer's risk 53% higher for those with type 2 diabetes",
-   "link": "https://medicalxpress.com/news/2026-11-reveals-alzheimer-higher-diabetes.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-12T12:30:01+00:00"
+   "title": "Stopping statins after 70 may be safer than expected, but there's a catch",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112025534.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-13T12:14:39+00:00"
   },
   {
-   "title": "Brain imaging uncovers a shared memory network linked to mild cognitive impairment",
-   "link": "https://medicalxpress.com/news/2026-11-brain-imaging-uncovers-memory-network.html",
+   "title": "Taking a closer look at stroke prevention in atrial fibrillation",
+   "link": "https://medicalxpress.com/news/2026-11-closer-atrial-fibrillation.html",
    "source": "MedicalXpress",
-   "date": "2026-11-12T12:20:24+00:00"
+   "date": "2026-11-13T12:00:11+00:00"
   },
   {
-   "title": "Treating nightmares early may lead more trauma survivors to access mental health care",
-   "link": "https://medicalxpress.com/news/2026-11-nightmares-early-trauma-survivors-access.html",
+   "title": "New test identifies people at higher risk of glaucoma, the leading cause of irreversible blindness",
+   "link": "https://medicalxpress.com/news/2026-11-people-higher-glaucoma-irreversible.html",
    "source": "MedicalXpress",
-   "date": "2026-11-12T12:00:06+00:00"
+   "date": "2026-11-13T11:00:01+00:00"
   },
   {
-   "title": "Could an erratic sleep schedule be harming your mental health?",
-   "link": "https://medicalxpress.com/news/2026-11-erratic-mental-health.html",
+   "title": "China approves first oral GLP-1 weight-loss pill",
+   "link": "https://medicalxpress.com/news/2026-11-china-oral-glp-weight-loss.html",
    "source": "MedicalXpress",
-   "date": "2026-11-12T10:00:02+00:00"
+   "date": "2026-11-13T10:20:01+00:00"
+  },
+  {
+   "title": "What men need to know after a major update to prostate cancer guidelines",
+   "link": "https://medicalxpress.com/news/2026-11-men-major-prostate-cancer-guidelines.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-13T10:00:04+00:00"
+  },
+  {
+   "title": "The US and Mexico are on the verge of forfeiting a major health victory. Here's what to know",
+   "link": "https://medicalxpress.com/news/2026-11-mexico-verge-forfeiting-major-health.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-13T09:40:08+00:00"
+  },
+  {
+   "title": "Machine-learning models accurately predict mortality after a heart attack",
+   "link": "https://medicalxpress.com/news/2026-11-machine-accurately-mortality-heart.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-13T09:20:01+00:00"
+  },
+  {
+   "title": "What is 'food is medicine'? Two experts explain this decades‑old approach to health care that is taking on new life",
+   "link": "https://medicalxpress.com/news/2026-11-food-medicine-experts-decadesold-approach.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-13T04:40:06+00:00"
+  },
+  {
+   "title": "Without this protein, damaged muscle fills with fat and scar tissue",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111221643.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-13T02:28:20+00:00"
+  },
+  {
+   "title": "Animal vs. plant protein reveals a surprising testosterone divide",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111005845.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-13T00:29:34+00:00"
+  },
+  {
+   "title": "Colorectal cancer is rising again after 20 years, and scientists don't know why",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111005843.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-12T12:06:41+00:00"
+  },
+  {
+   "title": "AI-powered bionic eye breakthrough could help the blind see again",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-12T11:55:55+00:00"
   },
   {
    "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",
    "link": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm",
    "source": "ScienceDaily",
    "date": "2026-11-12T09:34:53+00:00"
-  },
-  {
-   "title": "Jab by jab, house by house, Nigeria slowly rolls out malaria vaccine",
-   "link": "https://medicalxpress.com/news/2026-11-jab-house-nigeria-slowly-malaria.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-12T09:13:31+00:00"
   },
   {
    "title": "Scientists discover a common sugar may help cancer cells break free and spread",
@@ -88,52 +130,10 @@
    "date": "2026-11-12T00:10:23+00:00"
   },
   {
-   "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-11T13:10:51+00:00"
-  },
-  {
-   "title": "Obesity linked to up to 27% lower risk of death in dementia",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261109205401.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-11T12:59:57+00:00"
-  },
-  {
-   "title": "Even occasional marijuana use linked to 40% higher odds of stroke",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261110042539.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-11T03:47:25+00:00"
-  },
-  {
-   "title": "Why heart attacks can still happen even when bad cholesterol is low",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-10T01:54:15+00:00"
-  },
-  {
-   "title": "Alzheimer’s may have early warning signs outside the brain",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-10T01:47:34+00:00"
-  },
-  {
    "title": "FDA Approves First Factor Xla Inhibitor to Help Prevent Stroke in Certain Adults at High Risk",
    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk",
    "source": "FDA",
    "date": "2026-11-09T22:15:46+00:00"
-  },
-  {
-   "title": "Common supplement could help fight psoriasis, scientists discover",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-09T11:44:20+00:00"
-  },
-  {
-   "title": "Common osteoporosis drugs linked to 24% lower dementia risk in major study",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261108233037.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-09T07:36:14+00:00"
   },
   {
    "title": "FDA Grants Accelerated Approval to a New Treatment for Head and Neck Squamous Cell Carcinoma",
@@ -196,6 +196,12 @@
    "date": "2026-10-10T07:49:45+00:00"
   },
   {
+   "title": "For the first time, researchers map out the brain’s behavioral gatekeeper",
+   "link": "https://www.nih.gov/news-events/news-releases/first-time-researchers-map-out-brains-behavioral-gatekeeper",
+   "source": "NIH",
+   "date": ""
+  },
+  {
    "title": "Two ‘forever chemicals’ associated with higher risk of aggressive breast cancer in NIH analysis",
    "link": "https://www.nih.gov/news-events/news-releases/two-forever-chemicals-associated-higher-risk-aggressive-breast-cancer-nih-analysis",
    "source": "NIH",
@@ -246,12 +252,6 @@
   {
    "title": "Human lung organoids with a built-in immune system could transform respiratory disease research",
    "link": "https://www.nih.gov/news-events/news-releases/human-lung-organoids-built-immune-system-could-transform-respiratory-disease-research",
-   "source": "NIH",
-   "date": ""
-  },
-  {
-   "title": "NIH joins effort to build SI-ready data for predictive models of human biology",
-   "link": "https://www.nih.gov/news-events/news-releases/nih-joins-effort-build-si-ready-data-predictive-models-human-biology",
    "source": "NIH",
    "date": ""
   }
