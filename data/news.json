@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:04:01.358883+00:00",
+ "updated": "2026-11-14T12:08:28.649878+00:00",
  "sources_ok": [
   "NIH",
   "WHO",
@@ -10,10 +10,70 @@
  ],
  "items": [
   {
-   "title": "How the brain rapidly learns to interpret ambiguous images",
-   "link": "https://medicalxpress.com/news/2026-11-brain-rapidly-ambiguous-images.html",
+   "title": "The US flu season is off to a very early start. It's hitting the South and West now",
+   "link": "https://medicalxpress.com/news/2026-11-flu-season-early-south-west.html",
    "source": "MedicalXpress",
-   "date": "2026-11-13T13:00:09+00:00"
+   "date": "2026-11-14T11:21:32+00:00"
+  },
+  {
+   "title": "Preliminary study finds a clue in the quest to help diagnose CTE in the living",
+   "link": "https://medicalxpress.com/news/2026-11-preliminary-clue-quest-cte.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-14T11:16:47+00:00"
+  },
+  {
+   "title": "Yale scientists reveal what really slows aging and what doesn't",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-14T04:26:12+00:00"
+  },
+  {
+   "title": "Researchers trial AI coach for diabetes",
+   "link": "https://medicalxpress.com/news/2026-11-trial-ai-diabetes.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-14T03:20:01+00:00"
+  },
+  {
+   "title": "Short-term versus chronic stress: How each one affects your body",
+   "link": "https://medicalxpress.com/news/2026-11-short-term-chronic-stress-affects.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-14T00:40:01+00:00"
+  },
+  {
+   "title": "AHA: Discontinuing statins noninferior to continuation in older adults without known cardiovascular disease",
+   "link": "https://medicalxpress.com/news/2026-11-aha-discontinuing-statins-noninferior-older.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-13T23:00:02+00:00"
+  },
+  {
+   "title": "Can a scent really sharpen your memory? It's complicated",
+   "link": "https://medicalxpress.com/news/2026-11-scent-sharpen-memory-complicated.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-13T21:40:06+00:00"
+  },
+  {
+   "title": "Air pollution exposure tied to atopic dermatitis in children",
+   "link": "https://medicalxpress.com/news/2026-11-air-pollution-exposure-atopic-dermatitis.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-13T21:40:04+00:00"
+  },
+  {
+   "title": "RNA switch lets drugs control gene therapy protein production",
+   "link": "https://medicalxpress.com/news/2026-11-rna-drugs-gene-therapy-protein.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-13T21:20:06+00:00"
+  },
+  {
+   "title": "Personalized therapies for Crohn's and ulcerative colitis may follow from method that identifies harmful gut bacteria",
+   "link": "https://medicalxpress.com/news/2026-11-personalized-therapies-crohn-ulcerative-colitis.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-13T21:00:08+00:00"
+  },
+  {
+   "title": "GLP-1s often contain untested additive combinations, study finds",
+   "link": "https://medicalxpress.com/news/2026-11-glp-1s-untested-additive-combinations.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-13T21:00:01+00:00"
   },
   {
    "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
@@ -28,64 +88,10 @@
    "date": "2026-11-13T12:48:10+00:00"
   },
   {
-   "title": "Despite programs for firefighter health, most rural firefighters are left behind",
-   "link": "https://medicalxpress.com/news/2026-11-firefighter-health-rural-firefighters-left.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-13T12:40:01+00:00"
-  },
-  {
-   "title": "Mobile app and telemonitoring improve quality of life and symptoms in patients with heart failure",
-   "link": "https://medicalxpress.com/news/2026-11-mobile-app-telemonitoring-quality-life.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-13T12:20:05+00:00"
-  },
-  {
    "title": "Stopping statins after 70 may be safer than expected, but there's a catch",
    "link": "https://www.sciencedaily.com/releases/2026/11/261112025534.htm",
    "source": "ScienceDaily",
    "date": "2026-11-13T12:14:39+00:00"
-  },
-  {
-   "title": "Taking a closer look at stroke prevention in atrial fibrillation",
-   "link": "https://medicalxpress.com/news/2026-11-closer-atrial-fibrillation.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-13T12:00:11+00:00"
-  },
-  {
-   "title": "New test identifies people at higher risk of glaucoma, the leading cause of irreversible blindness",
-   "link": "https://medicalxpress.com/news/2026-11-people-higher-glaucoma-irreversible.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-13T11:00:01+00:00"
-  },
-  {
-   "title": "China approves first oral GLP-1 weight-loss pill",
-   "link": "https://medicalxpress.com/news/2026-11-china-oral-glp-weight-loss.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-13T10:20:01+00:00"
-  },
-  {
-   "title": "What men need to know after a major update to prostate cancer guidelines",
-   "link": "https://medicalxpress.com/news/2026-11-men-major-prostate-cancer-guidelines.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-13T10:00:04+00:00"
-  },
-  {
-   "title": "The US and Mexico are on the verge of forfeiting a major health victory. Here's what to know",
-   "link": "https://medicalxpress.com/news/2026-11-mexico-verge-forfeiting-major-health.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-13T09:40:08+00:00"
-  },
-  {
-   "title": "Machine-learning models accurately predict mortality after a heart attack",
-   "link": "https://medicalxpress.com/news/2026-11-machine-accurately-mortality-heart.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-13T09:20:01+00:00"
-  },
-  {
-   "title": "What is 'food is medicine'? Two experts explain this decades‑old approach to health care that is taking on new life",
-   "link": "https://medicalxpress.com/news/2026-11-food-medicine-experts-decadesold-approach.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-13T04:40:06+00:00"
   },
   {
    "title": "Without this protein, damaged muscle fills with fat and scar tissue",
@@ -104,12 +110,6 @@
    "link": "https://www.sciencedaily.com/releases/2026/11/261111005843.htm",
    "source": "ScienceDaily",
    "date": "2026-11-12T12:06:41+00:00"
-  },
-  {
-   "title": "AI-powered bionic eye breakthrough could help the blind see again",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-12T11:55:55+00:00"
   },
   {
    "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",

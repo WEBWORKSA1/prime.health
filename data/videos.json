@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:04:01.358883+00:00",
+ "updated": "2026-11-14T12:08:28.649878+00:00",
  "channels": [
   {
    "handle": "WHO",
@@ -70,12 +70,36 @@
  ],
  "items": [
   {
-   "id": "4ayFu0RqCU4",
-   "title": "Mayo Clinic Minute: How menopause may affect epilepsy",
+   "id": "WHTVSnt0Jkk",
+   "title": "How to treat chronic dizziness and vertigo | Mayo Clinic Aging Forward Podcast",
    "channel": "Mayo Clinic",
    "handle": "MayoClinic",
    "topic": "Prevention",
-   "date": "2026-11-12T18:19:44+00:00"
+   "date": "2026-11-13T22:52:30+00:00"
+  },
+  {
+   "id": "ZtL74IHkqFc",
+   "title": "High blood pressure: How to lower it | Mayo Clinic Health Matters Podcast",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-13T21:53:53+00:00"
+  },
+  {
+   "id": "ID4eHy0qZIY",
+   "title": "Cancer Conversations: Stories of Strength and Survival",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-13T21:50:16+00:00"
+  },
+  {
+   "id": "AH_j3je5N8s",
+   "title": "What is Fluoroscopy?",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-13T14:00:08+00:00"
   },
   {
    "id": "1rn_Clc-MM0",
@@ -118,36 +142,12 @@
    "date": "2026-11-11T15:20:12+00:00"
   },
   {
-   "id": "qOltvQW-XXI",
-   "title": "Pulmonary Critical Care Provider Mohammad Salman Khan, DO",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-11T15:14:35+00:00"
-  },
-  {
    "id": "iqXkC1mADEQ",
    "title": "Strengthening Africa's health security: Dr Tedros' message to African Medicines Agency Week 2026",
    "channel": "World Health Organization",
    "handle": "WHO",
    "topic": "Prevention",
    "date": "2026-11-11T10:25:30+00:00"
-  },
-  {
-   "id": "BTWAduHnaQE",
-   "title": "The Physician CEO: Leadership Lessons with Dr. David Herman",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-10T21:31:28+00:00"
-  },
-  {
-   "id": "BFYMGyZONfk",
-   "title": "The human touch: What makes a great hospital patient experience E01",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-10T19:52:16+00:00"
   },
   {
    "id": "kcVSMqOuIQQ",
