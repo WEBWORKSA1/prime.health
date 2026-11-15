@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:08:28.649878+00:00",
+ "updated": "2026-11-15T12:42:05.807753+00:00",
  "sources_ok": [
   "NIH",
   "WHO",
@@ -10,16 +10,100 @@
  ],
  "items": [
   {
-   "title": "The US flu season is off to a very early start. It's hitting the South and West now",
-   "link": "https://medicalxpress.com/news/2026-11-flu-season-early-south-west.html",
+   "title": "Brain–heart interactions may predict recovery from oxygen loss",
+   "link": "https://medicalxpress.com/news/2026-11-brainheart-interactions-recovery-oxygen-loss.html",
    "source": "MedicalXpress",
-   "date": "2026-11-14T11:21:32+00:00"
+   "date": "2026-11-15T06:00:01+00:00"
   },
   {
-   "title": "Preliminary study finds a clue in the quest to help diagnose CTE in the living",
-   "link": "https://medicalxpress.com/news/2026-11-preliminary-clue-quest-cte.html",
+   "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-15T04:31:56+00:00"
+  },
+  {
+   "title": "AI discovers a hidden heart signal that could predict sudden death",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-15T01:05:10+00:00"
+  },
+  {
+   "title": "Keep health at the center of public discussions on nuclear risk, researchers urge",
+   "link": "https://medicalxpress.com/news/2026-11-health-center-discussions-nuclear-urge.html",
    "source": "MedicalXpress",
-   "date": "2026-11-14T11:16:47+00:00"
+   "date": "2026-11-15T00:10:01+00:00"
+  },
+  {
+   "title": "ADHD's effects on breathing, perception and behavior",
+   "link": "https://medicalxpress.com/news/2026-11-adhd-effects-perception-behavior.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-14T17:00:29+00:00"
+  },
+  {
+   "title": "Using AI to accelerate neuroscience research",
+   "link": "https://medicalxpress.com/news/2026-11-ai-neuroscience.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-14T17:00:24+00:00"
+  },
+  {
+   "title": "New biomarkers for Alzheimer's disease, depression and beyond",
+   "link": "https://medicalxpress.com/news/2026-11-biomarkers-alzheimer-disease-depression.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-14T17:00:20+00:00"
+  },
+  {
+   "title": "Sex differences in pain, inflammation and Alzheimer's disease",
+   "link": "https://medicalxpress.com/news/2026-11-sex-differences-pain-inflammation-alzheimer.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-14T17:00:10+00:00"
+  },
+  {
+   "title": "Brain-computer interfaces: A new voice for people with paralysis",
+   "link": "https://medicalxpress.com/news/2026-11-brain-interfaces-voice-people-paralysis.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-14T17:00:06+00:00"
+  },
+  {
+   "title": "New brain-body connections expand understanding of Alzheimer's disease",
+   "link": "https://medicalxpress.com/news/2026-11-brain-body-alzheimer-disease.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-14T17:00:01+00:00"
+  },
+  {
+   "title": "A single CRISPR infusion lowers blood fats in monkeys for three years",
+   "link": "https://medicalxpress.com/news/2026-11-crispr-infusion-lowers-blood-fats.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-14T16:40:01+00:00"
+  },
+  {
+   "title": "Hepatitis B: Controlling the virus does not mean a cure",
+   "link": "https://medicalxpress.com/news/2026-11-hepatitis-virus.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-14T15:20:01+00:00"
+  },
+  {
+   "title": "Scientists find a simple daily routine linked to less pain and depression",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-14T12:48:01+00:00"
+  },
+  {
+   "title": "A new fiber supplement could help millions suffering from irritable bowel syndrome",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-14T12:35:36+00:00"
+  },
+  {
+   "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-14T12:25:05+00:00"
+  },
+  {
+   "title": "Exercise after ACL surgery may protect knees from early osteoarthritis",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112025538.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-14T12:14:57+00:00"
   },
   {
    "title": "Yale scientists reveal what really slows aging and what doesn't",
@@ -28,64 +112,10 @@
    "date": "2026-11-14T04:26:12+00:00"
   },
   {
-   "title": "Researchers trial AI coach for diabetes",
-   "link": "https://medicalxpress.com/news/2026-11-trial-ai-diabetes.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-14T03:20:01+00:00"
-  },
-  {
-   "title": "Short-term versus chronic stress: How each one affects your body",
-   "link": "https://medicalxpress.com/news/2026-11-short-term-chronic-stress-affects.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-14T00:40:01+00:00"
-  },
-  {
-   "title": "AHA: Discontinuing statins noninferior to continuation in older adults without known cardiovascular disease",
-   "link": "https://medicalxpress.com/news/2026-11-aha-discontinuing-statins-noninferior-older.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-13T23:00:02+00:00"
-  },
-  {
-   "title": "Can a scent really sharpen your memory? It's complicated",
-   "link": "https://medicalxpress.com/news/2026-11-scent-sharpen-memory-complicated.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-13T21:40:06+00:00"
-  },
-  {
-   "title": "Air pollution exposure tied to atopic dermatitis in children",
-   "link": "https://medicalxpress.com/news/2026-11-air-pollution-exposure-atopic-dermatitis.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-13T21:40:04+00:00"
-  },
-  {
-   "title": "RNA switch lets drugs control gene therapy protein production",
-   "link": "https://medicalxpress.com/news/2026-11-rna-drugs-gene-therapy-protein.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-13T21:20:06+00:00"
-  },
-  {
-   "title": "Personalized therapies for Crohn's and ulcerative colitis may follow from method that identifies harmful gut bacteria",
-   "link": "https://medicalxpress.com/news/2026-11-personalized-therapies-crohn-ulcerative-colitis.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-13T21:00:08+00:00"
-  },
-  {
-   "title": "GLP-1s often contain untested additive combinations, study finds",
-   "link": "https://medicalxpress.com/news/2026-11-glp-1s-untested-additive-combinations.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-13T21:00:01+00:00"
-  },
-  {
    "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
    "link": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
    "source": "ScienceDaily",
    "date": "2026-11-13T12:55:11+00:00"
-  },
-  {
-   "title": "Study of 750,000 pregnancies reveals a surprising twist about Ozempic and Wegovy",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261111005911.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-13T12:48:10+00:00"
   },
   {
    "title": "Stopping statins after 70 may be safer than expected, but there's a catch",
@@ -94,40 +124,10 @@
    "date": "2026-11-13T12:14:39+00:00"
   },
   {
-   "title": "Without this protein, damaged muscle fills with fat and scar tissue",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261111221643.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-13T02:28:20+00:00"
-  },
-  {
-   "title": "Animal vs. plant protein reveals a surprising testosterone divide",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261111005845.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-13T00:29:34+00:00"
-  },
-  {
-   "title": "Colorectal cancer is rising again after 20 years, and scientists don't know why",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261111005843.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-12T12:06:41+00:00"
-  },
-  {
    "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",
    "link": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm",
    "source": "ScienceDaily",
    "date": "2026-11-12T09:34:53+00:00"
-  },
-  {
-   "title": "Scientists discover a common sugar may help cancer cells break free and spread",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-12T04:39:31+00:00"
-  },
-  {
-   "title": "Walking and weight training may not be enough to keep your bones strong",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-12T00:10:23+00:00"
   },
   {
    "title": "FDA Approves First Factor Xla Inhibitor to Help Prevent Stroke in Certain Adults at High Risk",
