@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T12:42:05.807753+00:00",
+ "updated": "2026-11-16T13:36:12.443977+00:00",
  "channels": [
   {
    "handle": "WHO",
@@ -70,6 +70,54 @@
  ],
  "items": [
   {
+   "id": "7mEK5wZHpto",
+   "title": "Mushrooms for the Mind & Immune System | Paul Stamets",
+   "channel": "Huberman Lab",
+   "handle": "hubermanlab",
+   "topic": "Sleep & mind",
+   "date": "2026-11-16T13:00:40+00:00"
+  },
+  {
+   "id": "MwzImTe81EE",
+   "title": "Appendiceal Neoplasms: Small Organ, Big Decisions (Graphic)",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-16T11:58:03+00:00"
+  },
+  {
+   "id": "CzXbxoyFoc0",
+   "title": "Type 2 Diabetes: Which Medication Should Come First?",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-16T11:01:41+00:00"
+  },
+  {
+   "id": "nYrLMyUP4S0",
+   "title": "416 ‒ The science of mitochondria: their role in health, aging, disease, and much more",
+   "channel": "Peter Attia MD",
+   "handle": "PeterAttiaMD",
+   "topic": "Longevity",
+   "date": "2026-11-16T05:00:04+00:00"
+  },
+  {
+   "id": "gjjPurUXygY",
+   "title": "Practical Guide to Stereoelectroencephalography (sEEG)",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-15T18:00:03+00:00"
+  },
+  {
+   "id": "eWbqAlfB03g",
+   "title": "Former Tinder Expert Went on 343 Dates. Here's What She Learned",
+   "channel": "Doctor Mike",
+   "handle": "DoctorMike",
+   "topic": "Prevention",
+   "date": "2026-11-15T15:00:01+00:00"
+  },
+  {
    "id": "WHTVSnt0Jkk",
    "title": "How to treat chronic dizziness and vertigo | Mayo Clinic Aging Forward Podcast",
    "channel": "Mayo Clinic",
@@ -84,14 +132,6 @@
    "handle": "MayoClinic",
    "topic": "Prevention",
    "date": "2026-11-13T21:53:53+00:00"
-  },
-  {
-   "id": "ID4eHy0qZIY",
-   "title": "Cancer Conversations: Stories of Strength and Survival",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-13T21:50:16+00:00"
   },
   {
    "id": "AH_j3je5N8s",
@@ -124,22 +164,6 @@
    "handle": "DoctorMike",
    "topic": "Prevention",
    "date": "2026-11-11T16:00:40+00:00"
-  },
-  {
-   "id": "Co7EDx5C_Sw",
-   "title": "SEVA VentRounds Express: Setting Induced Fail",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-11T15:27:14+00:00"
-  },
-  {
-   "id": "Zf0kkO50HJU",
-   "title": "Pulmonary Critical Care Provider Albert Kim, MD",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-11T15:20:12+00:00"
   },
   {
    "id": "iqXkC1mADEQ",
@@ -212,30 +236,6 @@
    "handle": "PeterAttiaMD",
    "topic": "Longevity",
    "date": "2026-11-07T17:30:16+00:00"
-  },
-  {
-   "id": "yUdg7drjrZY",
-   "title": "Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna Søberg",
-   "channel": "Huberman Lab",
-   "handle": "hubermanlab",
-   "topic": "Sleep & mind",
-   "date": "2026-11-05T13:00:08+00:00"
-  },
-  {
-   "id": "e1RoRmKWsEE",
-   "title": "Understanding reps in reserve | Jeff Cavaliere, M.S.P.T., C.S.C.S.",
-   "channel": "Peter Attia MD",
-   "handle": "PeterAttiaMD",
-   "topic": "Longevity",
-   "date": "2026-11-04T19:32:48+00:00"
-  },
-  {
-   "id": "yaDakSbOBbU",
-   "title": "The Pharmacy Nearly Killed My Patient",
-   "channel": "Doctor Mike",
-   "handle": "DoctorMike",
-   "topic": "Prevention",
-   "date": "2026-11-04T15:00:01+00:00"
   },
   {
    "id": "A8lEleHtqQc",
