@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T13:36:12.443977+00:00",
+ "updated": "2026-11-17T14:20:42.529083+00:00",
  "channels": [
   {
    "handle": "WHO",
@@ -70,28 +70,68 @@
  ],
  "items": [
   {
+   "id": "slZSPf-TzjQ",
+   "title": "Fireside Chat | Transforming Healthcare with AI",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-17T13:54:38+00:00"
+  },
+  {
+   "id": "9O1HRLnMx84",
+   "title": "Media briefing on global health issues with Dr Tedros",
+   "channel": "World Health Organization",
+   "handle": "WHO",
+   "topic": "Prevention",
+   "date": "2026-11-17T13:41:29+00:00"
+  },
+  {
+   "id": "IPdDEnU3zZ8",
+   "title": "Clinician Investigator Training Program Program Director Welcome",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-17T13:05:09+00:00"
+  },
+  {
+   "id": "us6XqP6LxeE",
+   "title": "The New Era of Obesity Medications: What’s Changing in Cardiovascular Care",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-17T12:00:27+00:00"
+  },
+  {
+   "id": "-__OMTB3U3A",
+   "title": "The surprising health payoff of climate action",
+   "channel": "World Health Organization",
+   "handle": "WHO",
+   "topic": "Prevention",
+   "date": "2026-11-17T10:05:59+00:00"
+  },
+  {
+   "id": "OUNTpsTrOKg",
+   "title": "Urologic Cancer Treatments",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-16T19:34:23+00:00"
+  },
+  {
+   "id": "6kVXll9_mwE",
+   "title": "What Is ATNR?",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-16T14:00:31+00:00"
+  },
+  {
    "id": "7mEK5wZHpto",
    "title": "Mushrooms for the Mind & Immune System | Paul Stamets",
    "channel": "Huberman Lab",
    "handle": "hubermanlab",
    "topic": "Sleep & mind",
    "date": "2026-11-16T13:00:40+00:00"
-  },
-  {
-   "id": "MwzImTe81EE",
-   "title": "Appendiceal Neoplasms: Small Organ, Big Decisions (Graphic)",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-16T11:58:03+00:00"
-  },
-  {
-   "id": "CzXbxoyFoc0",
-   "title": "Type 2 Diabetes: Which Medication Should Come First?",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-16T11:01:41+00:00"
   },
   {
    "id": "nYrLMyUP4S0",
@@ -116,30 +156,6 @@
    "handle": "DoctorMike",
    "topic": "Prevention",
    "date": "2026-11-15T15:00:01+00:00"
-  },
-  {
-   "id": "WHTVSnt0Jkk",
-   "title": "How to treat chronic dizziness and vertigo | Mayo Clinic Aging Forward Podcast",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-13T22:52:30+00:00"
-  },
-  {
-   "id": "ZtL74IHkqFc",
-   "title": "High blood pressure: How to lower it | Mayo Clinic Health Matters Podcast",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-13T21:53:53+00:00"
-  },
-  {
-   "id": "AH_j3je5N8s",
-   "title": "What is Fluoroscopy?",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-13T14:00:08+00:00"
   },
   {
    "id": "1rn_Clc-MM0",
@@ -174,14 +190,6 @@
    "date": "2026-11-11T10:25:30+00:00"
   },
   {
-   "id": "kcVSMqOuIQQ",
-   "title": "LIVE from Paris Peace Forum: Dr Tedros’ remarks at the #ChildSummit High-Level Plenary",
-   "channel": "World Health Organization",
-   "handle": "WHO",
-   "topic": "Prevention",
-   "date": "2026-11-10T16:25:07+00:00"
-  },
-  {
    "id": "7JeZk_J7_h4",
    "title": "The Foods You Were Told to Avoid (But Should Be Eating)",
    "channel": "FoundMyFitness",
@@ -196,14 +204,6 @@
    "handle": "yogawithadriene",
    "topic": "Move",
    "date": "2026-11-10T15:00:05+00:00"
-  },
-  {
-   "id": "zQExY7ueCNs",
-   "title": "LIVE from #COP31: Health Day Ministerial Roundtable with Dr Tedros",
-   "channel": "World Health Organization",
-   "handle": "WHO",
-   "topic": "Prevention",
-   "date": "2026-11-09T13:00:23+00:00"
   },
   {
    "id": "wbJ_Q1xsDHg",
