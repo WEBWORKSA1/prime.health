@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T14:20:42.529083+00:00",
+ "updated": "2026-11-18T13:54:35.599111+00:00",
  "channels": [
   {
    "handle": "WHO",
@@ -70,6 +70,30 @@
  ],
  "items": [
   {
+   "id": "D7Z7EW2Mf5k",
+   "title": "CAR-T cell therapy for large B-cell lymphoma: A patient’s story | John Renze",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-17T20:20:28+00:00"
+  },
+  {
+   "id": "I2lB0ixcWSU",
+   "title": "Obesity Pharmacotherapy with Dr. Kristina Thurber",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-17T16:42:08+00:00"
+  },
+  {
+   "id": "9O1HRLnMx84",
+   "title": "Media briefing on global health issues with Dr Tedros",
+   "channel": "World Health Organization",
+   "handle": "WHO",
+   "topic": "Prevention",
+   "date": "2026-11-17T15:16:19+00:00"
+  },
+  {
    "id": "slZSPf-TzjQ",
    "title": "Fireside Chat | Transforming Healthcare with AI",
    "channel": "Cleveland Clinic",
@@ -78,28 +102,12 @@
    "date": "2026-11-17T13:54:38+00:00"
   },
   {
-   "id": "9O1HRLnMx84",
-   "title": "Media briefing on global health issues with Dr Tedros",
-   "channel": "World Health Organization",
-   "handle": "WHO",
-   "topic": "Prevention",
-   "date": "2026-11-17T13:41:29+00:00"
-  },
-  {
    "id": "IPdDEnU3zZ8",
    "title": "Clinician Investigator Training Program Program Director Welcome",
    "channel": "Mayo Clinic",
    "handle": "MayoClinic",
    "topic": "Prevention",
    "date": "2026-11-17T13:05:09+00:00"
-  },
-  {
-   "id": "us6XqP6LxeE",
-   "title": "The New Era of Obesity Medications: What’s Changing in Cardiovascular Care",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-17T12:00:27+00:00"
   },
   {
    "id": "-__OMTB3U3A",
@@ -140,14 +148,6 @@
    "handle": "PeterAttiaMD",
    "topic": "Longevity",
    "date": "2026-11-16T05:00:04+00:00"
-  },
-  {
-   "id": "gjjPurUXygY",
-   "title": "Practical Guide to Stereoelectroencephalography (sEEG)",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-15T18:00:03+00:00"
   },
   {
    "id": "eWbqAlfB03g",
