@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T13:54:35.599111+00:00",
+ "updated": "2026-11-19T14:23:53.190561+00:00",
  "channels": [
   {
    "handle": "WHO",
@@ -70,20 +70,76 @@
  ],
  "items": [
   {
-   "id": "D7Z7EW2Mf5k",
-   "title": "CAR-T cell therapy for large B-cell lymphoma: A patient’s story | John Renze",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-17T20:20:28+00:00"
+   "id": "8YHTMsy0bT8",
+   "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
+   "channel": "Huberman Lab",
+   "handle": "hubermanlab",
+   "topic": "Sleep & mind",
+   "date": "2026-11-19T13:00:35+00:00"
   },
   {
-   "id": "I2lB0ixcWSU",
-   "title": "Obesity Pharmacotherapy with Dr. Kristina Thurber",
+   "id": "Cy51MfGyGvU",
+   "title": "Bone health: What to eat for stronger bones | Mayo Clinic On Nutrition Podcast",
    "channel": "Mayo Clinic",
    "handle": "MayoClinic",
    "topic": "Prevention",
-   "date": "2026-11-17T16:42:08+00:00"
+   "date": "2026-11-18T22:06:05+00:00"
+  },
+  {
+   "id": "HTQqFputYVc",
+   "title": "Craniofacial Planning & Reconstruction, Neurosurgical Navigation",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-18T22:04:46+00:00"
+  },
+  {
+   "id": "XkWsFHE_eTU",
+   "title": "Sleep Disorders in Pregnancy: Part 1: S10-Ep2",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-18T22:03:01+00:00"
+  },
+  {
+   "id": "dcfAytSG_Dg",
+   "title": "Executive Health Provider Derrick Blackwell, DO",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-18T17:57:16+00:00"
+  },
+  {
+   "id": "gpk3NKAczfM",
+   "title": "Orthopaedic Surgeon Youssra Marjoua, MD",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-18T16:15:01+00:00"
+  },
+  {
+   "id": "nTd6X6FjeA8",
+   "title": "Orthopaedic Surgeon Nicholas Scarcella, MD",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-18T16:09:31+00:00"
+  },
+  {
+   "id": "XCNbKmdKab8",
+   "title": "A Gentle Breathing Exercise to Cultivate Kindness and Compassion",
+   "channel": "Headspace",
+   "handle": "headspace",
+   "topic": "Sleep & mind",
+   "date": "2026-11-18T14:44:26+00:00"
+  },
+  {
+   "id": "D1I3ee1XCbc",
+   "title": "Doctor Reacts To Devastating Anime Injuries",
+   "channel": "Doctor Mike",
+   "handle": "DoctorMike",
+   "topic": "Prevention",
+   "date": "2026-11-18T14:16:05+00:00"
   },
   {
    "id": "9O1HRLnMx84",
@@ -94,44 +150,12 @@
    "date": "2026-11-17T15:16:19+00:00"
   },
   {
-   "id": "slZSPf-TzjQ",
-   "title": "Fireside Chat | Transforming Healthcare with AI",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-17T13:54:38+00:00"
-  },
-  {
-   "id": "IPdDEnU3zZ8",
-   "title": "Clinician Investigator Training Program Program Director Welcome",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-17T13:05:09+00:00"
-  },
-  {
    "id": "-__OMTB3U3A",
    "title": "The surprising health payoff of climate action",
    "channel": "World Health Organization",
    "handle": "WHO",
    "topic": "Prevention",
    "date": "2026-11-17T10:05:59+00:00"
-  },
-  {
-   "id": "OUNTpsTrOKg",
-   "title": "Urologic Cancer Treatments",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-16T19:34:23+00:00"
-  },
-  {
-   "id": "6kVXll9_mwE",
-   "title": "What Is ATNR?",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-16T14:00:31+00:00"
   },
   {
    "id": "7mEK5wZHpto",
@@ -206,28 +230,12 @@
    "date": "2026-11-10T15:00:05+00:00"
   },
   {
-   "id": "wbJ_Q1xsDHg",
-   "title": "Overcome Addictions and Obsessions of All Kinds | Dr. Anna Lembke",
-   "channel": "Huberman Lab",
-   "handle": "hubermanlab",
-   "topic": "Sleep & mind",
-   "date": "2026-11-09T13:00:23+00:00"
-  },
-  {
    "id": "HhTirnNCxxE",
    "title": "Understanding lab testing: what blood work can & cannot tell you (AMA 91 sneak peek)",
    "channel": "Peter Attia MD",
    "handle": "PeterAttiaMD",
    "topic": "Longevity",
    "date": "2026-11-09T05:00:12+00:00"
-  },
-  {
-   "id": "HrHFrCWLrWA",
-   "title": "I Tried To Pass Firefighter Academy (It Broke Me)",
-   "channel": "Doctor Mike",
-   "handle": "DoctorMike",
-   "topic": "Prevention",
-   "date": "2026-11-08T15:00:03+00:00"
   },
   {
    "id": "drDjOsO9-Cw",
@@ -244,14 +252,6 @@
    "handle": "headspace",
    "topic": "Sleep & mind",
    "date": "2026-11-03T13:00:22+00:00"
-  },
-  {
-   "id": "ynbIe1LGx7g",
-   "title": "4-Minute Pep Talk to Boost Your Confidence",
-   "channel": "Headspace",
-   "handle": "headspace",
-   "topic": "Sleep & mind",
-   "date": "2026-10-29T20:49:47+00:00"
   },
   {
    "id": "E9AwOaDbclg",
@@ -308,14 +308,6 @@
    "handle": "FitnessBlender",
    "topic": "Move",
    "date": "2026-08-17T16:00:24+00:00"
-  },
-  {
-   "id": "Ka3UuZCoV-8",
-   "title": "30-Minute Booty Burn For Strength",
-   "channel": "Fitness Blender",
-   "handle": "FitnessBlender",
-   "topic": "Move",
-   "date": "2026-08-10T16:00:07+00:00"
   },
   {
    "id": "TBrlPpviaqY",
