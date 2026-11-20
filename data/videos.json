@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:23:53.190561+00:00",
+ "updated": "2026-11-20T13:58:22.559008+00:00",
  "channels": [
   {
    "handle": "WHO",
@@ -70,6 +70,22 @@
  ],
  "items": [
   {
+   "id": "1-HUpU7D8Ho",
+   "title": "A Nonsurgical Weight-Loss Option: Endoscopic Sleeve Gastroplasty (ESG) at Mayo Clinic",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-19T16:30:30+00:00"
+  },
+  {
+   "id": "iZamYp95vAw",
+   "title": "Mayo Clinic Minute: How CAR-T cell therapy may help treat severe autoimmune diseases",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-19T15:30:58+00:00"
+  },
+  {
    "id": "8YHTMsy0bT8",
    "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
    "channel": "Huberman Lab",
@@ -84,22 +100,6 @@
    "handle": "MayoClinic",
    "topic": "Prevention",
    "date": "2026-11-18T22:06:05+00:00"
-  },
-  {
-   "id": "HTQqFputYVc",
-   "title": "Craniofacial Planning & Reconstruction, Neurosurgical Navigation",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-18T22:04:46+00:00"
-  },
-  {
-   "id": "XkWsFHE_eTU",
-   "title": "Sleep Disorders in Pregnancy: Part 1: S10-Ep2",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-18T22:03:01+00:00"
   },
   {
    "id": "dcfAytSG_Dg",
