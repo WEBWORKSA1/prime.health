@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:58:22.559008+00:00",
+ "updated": "2026-11-21T13:26:06.293425+00:00",
  "channels": [
   {
    "handle": "WHO",
@@ -70,6 +70,30 @@
  ],
  "items": [
   {
+   "id": "1suFcEkmg08",
+   "title": "What’s holding AI back from delivering better care, everywhere E03",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-20T21:50:06+00:00"
+  },
+  {
+   "id": "NmAx64-zBOQ",
+   "title": "Mayo Clinic Minute: Hypertension and heart disease in the Black community",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-20T18:24:34+00:00"
+  },
+  {
+   "id": "CSSbu0zFYhY",
+   "title": "What Is a Wet Dream?",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-20T14:00:02+00:00"
+  },
+  {
    "id": "1-HUpU7D8Ho",
    "title": "A Nonsurgical Weight-Loss Option: Endoscopic Sleeve Gastroplasty (ESG) at Mayo Clinic",
    "channel": "Mayo Clinic",
@@ -78,28 +102,12 @@
    "date": "2026-11-19T16:30:30+00:00"
   },
   {
-   "id": "iZamYp95vAw",
-   "title": "Mayo Clinic Minute: How CAR-T cell therapy may help treat severe autoimmune diseases",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-19T15:30:58+00:00"
-  },
-  {
    "id": "8YHTMsy0bT8",
    "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
    "channel": "Huberman Lab",
    "handle": "hubermanlab",
    "topic": "Sleep & mind",
    "date": "2026-11-19T13:00:35+00:00"
-  },
-  {
-   "id": "Cy51MfGyGvU",
-   "title": "Bone health: What to eat for stronger bones | Mayo Clinic On Nutrition Podcast",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-18T22:06:05+00:00"
   },
   {
    "id": "dcfAytSG_Dg",
@@ -116,14 +124,6 @@
    "handle": "ClevelandClinic",
    "topic": "Heart",
    "date": "2026-11-18T16:15:01+00:00"
-  },
-  {
-   "id": "nTd6X6FjeA8",
-   "title": "Orthopaedic Surgeon Nicholas Scarcella, MD",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-18T16:09:31+00:00"
   },
   {
    "id": "XCNbKmdKab8",
