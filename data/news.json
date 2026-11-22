@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T13:26:06.293425+00:00",
+ "updated": "2026-11-22T13:18:13.564672+00:00",
  "sources_ok": [
   "NIH",
   "WHO",
@@ -9,6 +9,30 @@
   "MedicalXpress"
  ],
  "items": [
+  {
+   "title": "New structures come into view in brain wiring maps",
+   "link": "https://medicalxpress.com/news/2026-11-view-brain-wiring.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-21T20:00:01+00:00"
+  },
+  {
+   "title": "Stress and anxiety are wearing workers down: How to spot your triggers and cope",
+   "link": "https://medicalxpress.com/news/2026-11-stress-anxiety-workers-triggers-cope.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-21T19:00:01+00:00"
+  },
+  {
+   "title": "Alcohol may weaken cancer immunotherapy, early research suggests",
+   "link": "https://medicalxpress.com/news/2026-11-alcohol-weaken-cancer-immunotherapy-early.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-21T16:00:01+00:00"
+  },
+  {
+   "title": "Despite soaring demand for GLP-1s, many eligible patients are unable to access these drugs for weight loss",
+   "link": "https://medicalxpress.com/news/2026-11-soaring-demand-glp-1s-eligible.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-21T14:00:01+00:00"
+  },
   {
    "title": "Giving patients a greater voice in their diabetes care",
    "link": "https://medicalxpress.com/news/2026-11-patients-greater-voice-diabetes.html",
@@ -34,6 +58,12 @@
    "date": "2026-11-21T02:40:01+00:00"
   },
   {
+   "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-21T02:35:26+00:00"
+  },
+  {
    "title": "Mental health diagnoses rise with medical complexity, chronicity in children",
    "link": "https://medicalxpress.com/news/2026-11-mental-health-medical-complexity-chronicity.html",
    "source": "MedicalXpress",
@@ -44,30 +74,6 @@
    "link": "https://medicalxpress.com/news/2026-11-flu-vaccine-effectiveness-weaker-advertised.html",
    "source": "MedicalXpress",
    "date": "2026-11-20T23:00:01+00:00"
-  },
-  {
-   "title": "Your genes might boost risk for high cholesterol",
-   "link": "https://medicalxpress.com/news/2026-11-genes-boost-high-cholesterol.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-20T22:20:02+00:00"
-  },
-  {
-   "title": "Hair pulling, skin picking and nail biting are common in young people and cause significant distress",
-   "link": "https://medicalxpress.com/news/2026-11-hair-skin-common-young-people.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-20T21:20:02+00:00"
-  },
-  {
-   "title": "Less than half of TikTok videos on RSV prevention offer high-quality info, paper notes",
-   "link": "https://medicalxpress.com/news/2026-11-tiktok-videos-rsv-high-quality.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-20T21:00:08+00:00"
-  },
-  {
-   "title": "Alcohol addiction and eating disorders often go hand in hand—here's why",
-   "link": "https://medicalxpress.com/news/2026-11-alcohol-addiction-disorders.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-20T20:40:03+00:00"
   },
   {
    "title": "Keto diet slashes liver fat by 67% in just 4 months",
@@ -122,12 +128,6 @@
    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease",
    "source": "FDA",
    "date": "2026-11-18T19:13:26+00:00"
-  },
-  {
-   "title": "A rare disease reveals a hidden flaw in the immune system",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-18T12:33:09+00:00"
   },
   {
    "title": "Why do farts smell so bad? The secret is brewing in your gut",
