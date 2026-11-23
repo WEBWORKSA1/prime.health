@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:18:13.564672+00:00",
+ "updated": "2026-11-23T15:55:21.877169+00:00",
  "channels": [
   {
    "handle": "WHO",
@@ -70,6 +70,54 @@
  ],
  "items": [
   {
+   "id": "EdODogvN4Ws",
+   "title": "Cognitive Optimization for Brain Health",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-23T15:51:53+00:00"
+  },
+  {
+   "id": "ZP0_w8EvrZ8",
+   "title": "Mental Exercise and Memory for Brain Health",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-23T15:37:37+00:00"
+  },
+  {
+   "id": "7WRmMKdoPsI",
+   "title": "Social Connection and Rest for Brain Health",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-23T15:29:42+00:00"
+  },
+  {
+   "id": "brzkTni-nTQ",
+   "title": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
+   "channel": "Huberman Lab",
+   "handle": "hubermanlab",
+   "topic": "Sleep & mind",
+   "date": "2026-11-23T13:00:08+00:00"
+  },
+  {
+   "id": "8WDnoTSKQzw",
+   "title": "Cold therapy: pros, cons, and its impact on longevity (AMA #47 rebroadcast)",
+   "channel": "Peter Attia MD",
+   "handle": "PeterAttiaMD",
+   "topic": "Longevity",
+   "date": "2026-11-23T05:00:36+00:00"
+  },
+  {
+   "id": "2RLuCB6D1iM",
+   "title": "Doctor Reacts To Hilarious Medical Memes",
+   "channel": "Doctor Mike",
+   "handle": "DoctorMike",
+   "topic": "Prevention",
+   "date": "2026-11-22T15:00:22+00:00"
+  },
+  {
    "id": "1suFcEkmg08",
    "title": "What’s holding AI back from delivering better care, everywhere E03",
    "channel": "Mayo Clinic",
@@ -84,14 +132,6 @@
    "handle": "MayoClinic",
    "topic": "Prevention",
    "date": "2026-11-20T18:24:34+00:00"
-  },
-  {
-   "id": "CSSbu0zFYhY",
-   "title": "What Is a Wet Dream?",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-20T14:00:02+00:00"
   },
   {
    "id": "1-HUpU7D8Ho",
@@ -110,24 +150,8 @@
    "date": "2026-11-19T13:00:35+00:00"
   },
   {
-   "id": "dcfAytSG_Dg",
-   "title": "Executive Health Provider Derrick Blackwell, DO",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-18T17:57:16+00:00"
-  },
-  {
-   "id": "gpk3NKAczfM",
-   "title": "Orthopaedic Surgeon Youssra Marjoua, MD",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-18T16:15:01+00:00"
-  },
-  {
    "id": "XCNbKmdKab8",
-   "title": "A Gentle Breathing Exercise to Cultivate Kindness and Compassion",
+   "title": "6-Minute Loving-Kindness Meditation to Practice Self-Compassion and Empathy",
    "channel": "Headspace",
    "handle": "headspace",
    "topic": "Sleep & mind",
@@ -182,28 +206,12 @@
    "date": "2026-11-15T15:00:01+00:00"
   },
   {
-   "id": "1rn_Clc-MM0",
-   "title": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
-   "channel": "Huberman Lab",
-   "handle": "hubermanlab",
-   "topic": "Sleep & mind",
-   "date": "2026-11-12T13:00:29+00:00"
-  },
-  {
    "id": "7bw8EjeeSzA",
    "title": "A Relaxing Bedtime Story at an All-Night Hair Salon | 45-minute Sleepcast",
    "channel": "Headspace",
    "handle": "headspace",
    "topic": "Sleep & mind",
    "date": "2026-11-11T19:42:17+00:00"
-  },
-  {
-   "id": "VbmaYsU8hjA",
-   "title": "Doctor Reacts To MTV Medical Emergencies",
-   "channel": "Doctor Mike",
-   "handle": "DoctorMike",
-   "topic": "Prevention",
-   "date": "2026-11-11T16:00:40+00:00"
   },
   {
    "id": "iqXkC1mADEQ",
@@ -236,14 +244,6 @@
    "handle": "PeterAttiaMD",
    "topic": "Longevity",
    "date": "2026-11-09T05:00:12+00:00"
-  },
-  {
-   "id": "drDjOsO9-Cw",
-   "title": "How to effectively train your abdominal muscles | Jeff Cavaliere, M.S.P.T., C.S.C.S.",
-   "channel": "Peter Attia MD",
-   "handle": "PeterAttiaMD",
-   "topic": "Longevity",
-   "date": "2026-11-07T17:30:16+00:00"
   },
   {
    "id": "A8lEleHtqQc",
