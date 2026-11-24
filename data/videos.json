@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:55:21.877169+00:00",
+ "updated": "2026-11-24T15:50:04.263587+00:00",
  "channels": [
   {
    "handle": "WHO",
@@ -70,28 +70,60 @@
  ],
  "items": [
   {
-   "id": "EdODogvN4Ws",
-   "title": "Cognitive Optimization for Brain Health",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-23T15:51:53+00:00"
+   "id": "LOmgwJhVDEg",
+   "title": "Standing Yoga Stretch | 10-Minute Full Body Reset",
+   "channel": "Yoga With Adriene",
+   "handle": "yogawithadriene",
+   "topic": "Move",
+   "date": "2026-11-24T15:00:08+00:00"
   },
   {
-   "id": "ZP0_w8EvrZ8",
-   "title": "Mental Exercise and Memory for Brain Health",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-23T15:37:37+00:00"
+   "id": "mDwbSbtU4SQ",
+   "title": "Bile duct cancer explained: What is cholangiocarcinoma?",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-24T14:00:13+00:00"
   },
   {
-   "id": "7WRmMKdoPsI",
-   "title": "Social Connection and Rest for Brain Health",
+   "id": "QjbXn3xMZQQ",
+   "title": "Treatment of Tetralogy",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-24T12:00:09+00:00"
+  },
+  {
+   "id": "LWjE6N8XVCQ",
+   "title": "End Your Day With Gratitude | Relax with a 4-Minute Wind Down Meditation",
+   "channel": "Headspace",
+   "handle": "headspace",
+   "topic": "Sleep & mind",
+   "date": "2026-11-23T21:59:08+00:00"
+  },
+  {
+   "id": "ItSWWd5cXlA",
+   "title": "In Good Health: Pelvic Floor Syndrome",
    "channel": "Cleveland Clinic",
    "handle": "ClevelandClinic",
    "topic": "Heart",
-   "date": "2026-11-23T15:29:42+00:00"
+   "date": "2026-11-23T20:58:31+00:00"
+  },
+  {
+   "id": "M2a9rzsBPhs",
+   "title": "Before You Board | Health Considerations for International Travel",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-23T20:05:32+00:00"
+  },
+  {
+   "id": "XmYV0gK1hlo",
+   "title": "Yoga Therapy: Gratitude and Contentment",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-23T19:48:01+00:00"
   },
   {
    "id": "brzkTni-nTQ",
@@ -111,7 +143,7 @@
   },
   {
    "id": "2RLuCB6D1iM",
-   "title": "Doctor Reacts To Hilarious Medical Memes",
+   "title": "I Shouldn't Be Laughing At These Medical Memes",
    "channel": "Doctor Mike",
    "handle": "DoctorMike",
    "topic": "Prevention",
@@ -124,22 +156,6 @@
    "handle": "MayoClinic",
    "topic": "Prevention",
    "date": "2026-11-20T21:50:06+00:00"
-  },
-  {
-   "id": "NmAx64-zBOQ",
-   "title": "Mayo Clinic Minute: Hypertension and heart disease in the Black community",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-20T18:24:34+00:00"
-  },
-  {
-   "id": "1-HUpU7D8Ho",
-   "title": "A Nonsurgical Weight-Loss Option: Endoscopic Sleeve Gastroplasty (ESG) at Mayo Clinic",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-19T16:30:30+00:00"
   },
   {
    "id": "8YHTMsy0bT8",
@@ -246,28 +262,12 @@
    "date": "2026-11-09T05:00:12+00:00"
   },
   {
-   "id": "A8lEleHtqQc",
-   "title": "2 Hours of Cozy, Ambient Sounds for Your Pet’s Afternoon Nap",
-   "channel": "Headspace",
-   "handle": "headspace",
-   "topic": "Sleep & mind",
-   "date": "2026-11-03T13:00:22+00:00"
-  },
-  {
    "id": "E9AwOaDbclg",
    "title": "Halloween Yoga | A Red Riding Hood Adventure",
    "channel": "Yoga With Adriene",
    "handle": "yogawithadriene",
    "topic": "Move",
    "date": "2026-10-27T14:00:07+00:00"
-  },
-  {
-   "id": "aA9EI3NKUS4",
-   "title": "Find Your Flexibility | Full Body Yoga",
-   "channel": "Yoga With Adriene",
-   "handle": "yogawithadriene",
-   "topic": "Move",
-   "date": "2026-10-13T14:00:06+00:00"
   },
   {
    "id": "IKdShZ2CDe4",
