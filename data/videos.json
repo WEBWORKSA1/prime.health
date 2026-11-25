@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:50:04.263587+00:00",
+ "updated": "2026-11-25T15:33:29.786361+00:00",
  "channels": [
   {
    "handle": "WHO",
@@ -70,6 +70,38 @@
  ],
  "items": [
   {
+   "id": "rlhkYQQx_dE",
+   "title": "Navigating chaos and using it for growth | Mayo Clinic On Human Optimization E73",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-25T14:59:01+00:00"
+  },
+  {
+   "id": "UT83_tvuMpA",
+   "title": "Midwife Wendy Smith, CNM",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-24T18:35:17+00:00"
+  },
+  {
+   "id": "fPAxubsL5iE",
+   "title": "Atrial Fibrillation: Changing the Natural History",
+   "channel": "Cleveland Clinic",
+   "handle": "ClevelandClinic",
+   "topic": "Heart",
+   "date": "2026-11-24T18:16:25+00:00"
+  },
+  {
+   "id": "HxOx6rw2YKI",
+   "title": "Gratitude in Nursing: Thrive in Your Nursing Journey",
+   "channel": "Mayo Clinic",
+   "handle": "MayoClinic",
+   "topic": "Prevention",
+   "date": "2026-11-24T16:46:30+00:00"
+  },
+  {
    "id": "LOmgwJhVDEg",
    "title": "Standing Yoga Stretch | 10-Minute Full Body Reset",
    "channel": "Yoga With Adriene",
@@ -86,14 +118,6 @@
    "date": "2026-11-24T14:00:13+00:00"
   },
   {
-   "id": "QjbXn3xMZQQ",
-   "title": "Treatment of Tetralogy",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-24T12:00:09+00:00"
-  },
-  {
    "id": "LWjE6N8XVCQ",
    "title": "End Your Day With Gratitude | Relax with a 4-Minute Wind Down Meditation",
    "channel": "Headspace",
@@ -108,22 +132,6 @@
    "handle": "ClevelandClinic",
    "topic": "Heart",
    "date": "2026-11-23T20:58:31+00:00"
-  },
-  {
-   "id": "M2a9rzsBPhs",
-   "title": "Before You Board | Health Considerations for International Travel",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-23T20:05:32+00:00"
-  },
-  {
-   "id": "XmYV0gK1hlo",
-   "title": "Yoga Therapy: Gratitude and Contentment",
-   "channel": "Cleveland Clinic",
-   "handle": "ClevelandClinic",
-   "topic": "Heart",
-   "date": "2026-11-23T19:48:01+00:00"
   },
   {
    "id": "brzkTni-nTQ",
@@ -148,14 +156,6 @@
    "handle": "DoctorMike",
    "topic": "Prevention",
    "date": "2026-11-22T15:00:22+00:00"
-  },
-  {
-   "id": "1suFcEkmg08",
-   "title": "What’s holding AI back from delivering better care, everywhere E03",
-   "channel": "Mayo Clinic",
-   "handle": "MayoClinic",
-   "topic": "Prevention",
-   "date": "2026-11-20T21:50:06+00:00"
   },
   {
    "id": "8YHTMsy0bT8",
