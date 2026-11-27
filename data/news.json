@@ -1,6 +1,7 @@
 {
- "updated": "2026-11-26T15:08:14.452230+00:00",
+ "updated": "2026-11-27T14:59:36.112770+00:00",
  "sources_ok": [
+  "NIH",
   "WHO",
   "FDA",
   "CDC",
@@ -9,28 +10,88 @@
  ],
  "items": [
   {
-   "title": "New evidence suggests heart cells transmit electrical signals through more than direct connections",
-   "link": "https://medicalxpress.com/news/2026-11-evidence-heart-cells-transmit-electrical.html",
+   "title": "Living wound patch pairs viruses and probiotics to fight resistant bacteria",
+   "link": "https://medicalxpress.com/news/2026-11-wound-patch-pairs-viruses-probiotics.html",
    "source": "MedicalXpress",
-   "date": "2026-11-26T15:00:01+00:00"
+   "date": "2026-11-27T14:40:09+00:00"
   },
   {
-   "title": "Brain immune cells could weaken motor memories by removing myelin, study suggests",
-   "link": "https://medicalxpress.com/news/2026-11-brain-immune-cells-weaken-motor.html",
+   "title": "An RNA therapy approach to treat heart damage in Fabry disease",
+   "link": "https://medicalxpress.com/news/2026-11-rna-therapy-approach-heart-fabry.html",
    "source": "MedicalXpress",
-   "date": "2026-11-26T14:40:11+00:00"
+   "date": "2026-11-27T13:40:01+00:00"
   },
   {
-   "title": "Form and diversity: How tumor architecture shapes colorectal cancer progression",
-   "link": "https://medicalxpress.com/news/2026-11-diversity-tumor-architecture-colorectal-cancer.html",
+   "title": "Learning a new movement may start with a reusable pattern",
+   "link": "https://medicalxpress.com/news/2026-11-movement-reusable-pattern.html",
    "source": "MedicalXpress",
-   "date": "2026-11-26T13:00:01+00:00"
+   "date": "2026-11-27T13:20:08+00:00"
   },
   {
-   "title": "Stronger molecular grip optimizes anticancer drug release",
-   "link": "https://medicalxpress.com/news/2026-11-stronger-molecular-optimizes-anticancer-drug.html",
+   "title": "The littlest and cutest research subjects help explain infant brains",
+   "link": "https://medicalxpress.com/news/2026-11-littlest-cutest-subjects-infant-brains.html",
    "source": "MedicalXpress",
-   "date": "2026-11-26T12:10:02+00:00"
+   "date": "2026-11-27T13:00:05+00:00"
+  },
+  {
+   "title": "Bootleg nicotine could warp Australia's smoking trends",
+   "link": "https://medicalxpress.com/news/2026-11-bootleg-nicotine-warp-australia-trends.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-27T12:50:05+00:00"
+  },
+  {
+   "title": "Ebola data from West Africa suggest potential benefit of the antidiarrheal drug loperamide",
+   "link": "https://medicalxpress.com/news/2026-11-ebola-west-africa-potential-benefit.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-27T12:40:06+00:00"
+  },
+  {
+   "title": "What do puberty's wild hormone swings mean for teenage girls' mental health?",
+   "link": "https://medicalxpress.com/news/2026-11-puberty-wild-hormone-teenage-girls.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-27T12:20:16+00:00"
+  },
+  {
+   "title": "Brain's myelin 'brake' may hold clues to mental health disorders",
+   "link": "https://medicalxpress.com/news/2026-11-brain-myelin-clues-mental-health.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-27T12:20:08+00:00"
+  },
+  {
+   "title": "Aged care move disrupts regular health care",
+   "link": "https://medicalxpress.com/news/2026-11-aged-disrupts-regular-health.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-27T12:00:01+00:00"
+  },
+  {
+   "title": "Why can't the heart repair itself? Study reveals a fundamental trade-off between beating and regeneration",
+   "link": "https://medicalxpress.com/news/2026-11-heart-reveals-fundamental-regeneration.html",
+   "source": "MedicalXpress",
+   "date": "2026-11-27T10:00:14+00:00"
+  },
+  {
+   "title": "Breathing less oxygen tripled lifespan in mice with a deadly brain disorder",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045304.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-27T09:38:19+00:00"
+  },
+  {
+   "title": "One type of physical activity is linked to a 20% higher dementia risk",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045246.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-27T08:45:06+00:00"
+  },
+  {
+   "title": "A fat-burning molecule has an unexpected benefit for your muscles",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261126063315.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-27T04:42:17+00:00"
+  },
+  {
+   "title": "This dietary supplement may have an unexpected benefit for the brain",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045311.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-26T23:34:32+00:00"
   },
   {
    "title": "Common supplements rival antibiotics in treating severe gum disease",
@@ -43,48 +104,6 @@
    "link": "https://www.sciencedaily.com/releases/2026/11/261124055906.htm",
    "source": "ScienceDaily",
    "date": "2026-11-26T11:32:30+00:00"
-  },
-  {
-   "title": "Risk for disease flare low for women with IBD undergoing assisted reproductive technology",
-   "link": "https://medicalxpress.com/news/2026-11-disease-flare-women-ibd-reproductive.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-26T11:00:02+00:00"
-  },
-  {
-   "title": "'It's scary': California battles West Nile virus surge",
-   "link": "https://medicalxpress.com/news/2026-11-scary-california-west-nile-virus.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-26T10:20:04+00:00"
-  },
-  {
-   "title": "The same gene that helps define neuron identity may also balance developing brain circuits",
-   "link": "https://medicalxpress.com/news/2026-11-gene-neuron-identity-brain-circuits.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-26T10:00:01+00:00"
-  },
-  {
-   "title": "Ebola outbreak in Congo reaches 12,000 cases as violence forces some responders to evacuate",
-   "link": "https://medicalxpress.com/news/2026-11-ebola-outbreak-congo-cases-violence.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-26T09:34:05+00:00"
-  },
-  {
-   "title": "Too much of this common nutrient could be accelerating blood vessel aging",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261124055847.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-26T03:53:48+00:00"
-  },
-  {
-   "title": "2000 to 2024 saw decrease in age-adjusted stroke death rate in U.S.",
-   "link": "https://medicalxpress.com/news/2026-11-decrease-age-adjusted-death.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-26T02:40:04+00:00"
-  },
-  {
-   "title": "One body, two systems: Integrating dental and medical care dramatically improves dental follow-up",
-   "link": "https://medicalxpress.com/news/2026-11-body-dental-medical.html",
-   "source": "MedicalXpress",
-   "date": "2026-11-26T02:00:01+00:00"
   },
   {
    "title": "World’s largest trial of robotic knee replacement reveals surprising results",
@@ -105,22 +124,10 @@
    "date": "2026-11-25T11:13:47+00:00"
   },
   {
-   "title": "Peppermint oil significantly lowers blood pressure in just 20 days",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261123231553.htm",
+   "title": "A tiny injectable sensor could change how millions of people monitor blood sugar",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045256.htm",
    "source": "ScienceDaily",
-   "date": "2026-11-25T10:53:00+00:00"
-  },
-  {
-   "title": "Stanford scientists discover 3 hidden brain types behind ADHD and anxiety",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-25T04:11:59+00:00"
-  },
-  {
-   "title": "Scientists discover a new type of depression that common antidepressants struggle to treat",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-24T10:47:51+00:00"
+   "date": "2026-11-25T09:52:56+00:00"
   },
   {
    "title": "FDA Approves First Treatment for Limb-Girdle Muscular Dystrophy Type 2I/R9",
@@ -133,12 +140,6 @@
    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-new-hormone-therapy-early-stage-breast-cancer-more-20-years",
    "source": "FDA",
    "date": "2026-11-23T15:55:37+00:00"
-  },
-  {
-   "title": "New gum disease treatment kills bad bacteria while sparing the good",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-23T11:55:17+00:00"
   },
   {
    "title": "FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease",
